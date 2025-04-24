@@ -4,6 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-<b> <Working paper></b>
+<b><Working paper></b>
 
 <em> MMC in gasilone market</em>
