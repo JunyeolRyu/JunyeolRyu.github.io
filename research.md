@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <b>Publications</b>  
-• “What Occurs When a Shot is Fired? Gender Differences in Housing Markets” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <em>Forthcoming at Marketing Letters</em> , 2024 (1st Author)  
+• “What Occurs When a Shot is Fired? Gender Differences in Housing Markets” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), Forthcoming at <em>Marketing Letters</em> , 2024 (1st Author)  
 • “Household differentiation and residential electricity demand in Korea” (with Daewook Kim and Mankeun Kim), <em>Energy Economics</em>, Volume 95, March 2021, (1st Author)  
 
 
