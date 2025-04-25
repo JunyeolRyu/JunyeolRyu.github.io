@@ -18,7 +18,7 @@ Mathematical Economics 1 (Fall 2024), graduate
 
 ### Soongsil University 
 
-<b> Teaching Assistant </b>
-Undergraduate: Special Lecture on Economics, Industrial Organization Theory
+<b> Teaching Assistant </b>  
+• Undergraduate: Special Lecture on Economics, Industrial Organization Theory
 
 
