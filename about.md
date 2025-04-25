@@ -11,8 +11,8 @@ My fields of interest are Industrial Organization, Energy & Environment Economic
 
 ### Contact me
 
-Department of Economics //
-308 Cate Center Drive, Office 230 //
+Department of Economics
+308 Cate Center Drive, Office 230 
 Norman, OK 73019
 
 junyeol.ryu-1@ou.edu  (OU)
