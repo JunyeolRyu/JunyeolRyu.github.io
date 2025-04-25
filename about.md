@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, my name is Junyeol Ryu.
+<a> Hello, my name is Junyeol Ryu. </a>
 I'm a 4th-year Ph.D. student in Economics at the University of Oklahoma.
 My fields of interest are Industrial Organization, Energy & Environment Economics, and Applied Microeconomics. 
 
