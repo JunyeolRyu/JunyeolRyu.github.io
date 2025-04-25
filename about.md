@@ -10,5 +10,10 @@ My fields of interest are Industrial Organization, Energy & Environment Economic
 
 
 ### Contact me
-email: ryujy1981@gmail.com
 
+Department of Economics //
+308 Cate Center Drive, Office 230 //
+Norman, OK 73019
+
+junyeol.ryu-1@ou.edu  (OU)
+ryujy1981@gmail.com  (personal)
