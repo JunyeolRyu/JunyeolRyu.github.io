@@ -12,7 +12,8 @@ permalink: /research/
 
 
 <b>Working Papers</b>  
-• “Tax Reform and Bonuses: Implications for Employee Productivity” (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, Under Review at <em>Journal of Law, Economics, and Organization</em>  
+• “Tax Reform and Bonuses: Implications for Employee Productivity” (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, Under Review at <em>Journal of Law, Economics, and Organization</em> 
+
 • “Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case” (with Minhae Kim and Myongjin Kim), 2024, Under Review at <em>Review of Industrial Organization</em>  
 
 • “Impacts of ZEV on Product Market, Environment, and Health Outcomes” (with Minhae Kim and Myongjin Kim), 2024  
