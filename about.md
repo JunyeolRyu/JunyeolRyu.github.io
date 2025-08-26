@@ -24,7 +24,7 @@ My research examines
 • LNG up & downstream market  
 • auction & procurement market  
 
-Coding
+Coding  
 • Stata  
 • R  
 • Python  
