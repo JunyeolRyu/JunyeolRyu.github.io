@@ -13,7 +13,7 @@ I'm specializing in IO, Energy & Environment Economics, and Applied Microeconomi
 My research utilizes  
 • structural estimation: demand prediction, forecasting, oligopoly supply model  
 • machine learning: LLM, Topic modeling, Random forest, etc  
-• reduced-form: DID, RD, Matching, etc  
+• reduced-form: DID(staggered), RD, Matching, etc  
 • geographical analysis  
 
 
@@ -24,6 +24,12 @@ My research examines
 • LNG up & downstream market  
 • auction & procurement market  
 
+Coding
+• Stata  
+• R  
+• Python  
+• Julia  
+• Matlab  
 
 
 ### Contact me
