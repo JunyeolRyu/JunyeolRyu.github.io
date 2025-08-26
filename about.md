@@ -10,19 +10,19 @@ I'm a 5th-year Ph.D. student in Economics at the University of Oklahoma.
 I'm specializing in IO, Energy & Environment Economics, and Applied Microeconomics.
 
 
-My research utilizes //
-• structural estimation: demand prediction, forecasting, oligopoly supply model //
-• machine learning: LLM, Topic modeling, Random forest, etc //
-• reduced-form: DID, RD, Matching, etc //
-• geographical analysis //
+My research utilizes  
+• structural estimation: demand prediction, forecasting, oligopoly supply model  
+• machine learning: LLM, Topic modeling, Random forest, etc  
+• reduced-form: DID, RD, Matching, etc  
+• geographical analysis  
 
 
-My research examines //
-• airline industry //
-• gasoline station industry //
-• electricity market //
-• LNG up & downstream market //
-• auction & procurement market //
+My research examines  
+• airline industry  
+• gasoline station industry  
+• electricity market  
+• LNG up & downstream market  
+• auction & procurement market  
 
 
 
