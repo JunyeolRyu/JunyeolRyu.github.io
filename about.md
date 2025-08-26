@@ -6,6 +6,8 @@ permalink: /about/
 
 Welcome, my name is Junyeol Ryu.  
 I'm a 5th-year Ph.D. student in Economics at the University of Oklahoma.
+
+
 I'm specializing in IO, Energy & Environment Economics, and Applied Microeconomics with airline industry, gasoline station industry, electricity market, LNG up & downstream market, and auction & procurement market.
 
 My research utilizes 
