@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 
-<span style="font-family: 'Lucida Console', monospace"><b>PUBLICATIONS</b></span>  
+<span style="font-family: 'Lucida Console', monospace"; font-size: 18px><b>PUBLICATIONS</b></span>  
 <span style="font-family: 'Georgia', serif"> • “What Occurs When a Shot is Fired? Gender Differences in Housing Markets” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), Forthcoming at <em>Marketing Letters</em>, 2024, *1st author* 
 </span>  
 
