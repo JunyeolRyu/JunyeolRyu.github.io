@@ -28,7 +28,6 @@ permalink: /about/
 <span style="font-family: 'Garamond', serif">• gasoline retail station market dynamics  </span>  
 
 <span style="font-family: 'Times New Roman', serif">***Statistical software***</span>
-
 <span style="font-family: 'Garamond', serif">• Stata  </span>  
 <span style="font-family: 'Garamond', serif">• R  </span>  
 <span style="font-family: 'Garamond', serif">• Python  </span>  
