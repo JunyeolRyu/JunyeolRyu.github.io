@@ -3,37 +3,18 @@ layout: page
 title: Research
 permalink: /research/
 ---
-<span style="font-family: 'Times New Roman', serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Georgia', serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Garamond', serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Book Antiqua', serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Palatino Linotype', serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Times', serif">What Occurs When a Shot is Fired?</span>  
 
-<span style="font-family: 'Arial', sans-serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Helvetica', sans-serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Verdana', sans-serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Calibri', sans-serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Trebuchet MS', sans-serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Arial Black', sans-serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Impact', sans-serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Lucida Sans Unicode', sans-serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Tahoma', sans-serif">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Geneva', sans-serif">What Occurs When a Shot is Fired?</span>  
-
-<span style="font-family: 'Courier New', monospace">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Monaco', monospace">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Consolas', monospace">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Lucida Console', monospace">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Courier', monospace">What Occurs When a Shot is Fired?</span>  
-<span style="font-family: 'Menlo', monospace">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Georgia', serif">  </span>  
 
 
-<b>PUBLICATIONS</b>   
-• “What Occurs When a Shot is Fired? Gender Differences in Housing Markets” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), Forthcoming at <em>Marketing Letters</em>, 2024 (1st Author)  
 
-• “Household differentiation and residential electricity demand in Korea” (with Daewook Kim and Mankeun Kim), <em>Energy Economics</em>, Volume 95, March 2021, (1st Author)  
 
+<b>PUBLICATIONS</b>  
+<span style="font-family: 'Georgia', serif">  
+• “What Occurs When a Shot is Fired? Gender Differences in Housing Markets” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), Forthcoming at <em>Marketing Letters</em>, 2024 *1st Author* 
+
+• “Household differentiation and residential electricity demand in Korea” (with Daewook Kim and Mankeun Kim), <em>Energy Economics</em>, Volume 95, March 2021, *1st Author*  
+</span>  
 
 <b>WORKING PAPERS</b>   
 • “Energy Security and Competition in South Korea” (with Eric Lewis and Myongjin Kim), 2024  
