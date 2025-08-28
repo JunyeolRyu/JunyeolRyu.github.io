@@ -4,8 +4,8 @@ title:
 permalink: /about/
 ---
 
-<span style="font-family: 'Georgia', serif">**Welcome, my name is Junyeol Ryu.**</span>  
 
+<span style="font-family: 'Times', serif">**Welcome, my name is Junyeol Ryu.** </span>  
 
 <span style="font-family: 'Times', serif">I'm a 5th-year Ph.D. student in Economics at the University of Oklahoma. </span>  
 <span style="font-family: 'Times', serif">I'm specializing in *IO*, *Energy & Environment Economics*, and *Applied Microeconomics*. </span>  
