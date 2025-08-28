@@ -5,14 +5,16 @@ permalink: /research/
 ---
 
 
-<span style="font-family: 'Lucida Console', monospace"; font-size: 18px><b>PUBLICATIONS</b></span>  
+### <span style="font-family: 'Lucida Console', monospace"><b>PUBLICATIONS</b></span>  
 <span style="font-family: 'Georgia', serif"> • “What Occurs When a Shot is Fired? Gender Differences in Housing Markets” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), Forthcoming at <em>Marketing Letters</em>, 2024, *1st author* 
 </span>  
 
 <span style="font-family: 'Georgia', serif"> • “Household differentiation and residential electricity demand in Korea” (with Daewook Kim and Mankeun Kim), <em>Energy Economics</em>, Volume 95, March 2021, *1st author*   
 </span>  
+  
 
-<span style="font-family: 'Lucida Console', monospace"><b>WORKING PAPERS</b></span>   
+### <span style="font-family: 'Lucida Console', monospace"><b>WORKING PAPERS</b></span>   
+
 <span style="font-family: 'Georgia', serif"> • “Energy Security and Competition in South Korea” (with Eric Lewis and Myongjin Kim), 2024
 </span>  
 
@@ -36,9 +38,10 @@ permalink: /research/
 
 <span style="font-family: 'Georgia', serif"> • “Marijuana Legalization and Airline Competition” (with Minhae Kim and Myongjin Kim), 2024
 </span>    
+  
 
+### <span style="font-family: 'Lucida Console', monospace"><b>WORK IN PROGRESS</b></span>   
 
-<span style="font-family: 'Lucida Console', monospace"><b>WORK IN PROGRESS</b></span>   
 <span style="font-family: 'Georgia', serif"> • “A Network, Scoring Auction and Collusion” (with Georgia Kosmopoulou and Myongjin Kim), 2024
 </span>    
 
