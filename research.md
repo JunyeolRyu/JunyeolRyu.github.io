@@ -3,6 +3,12 @@ layout: page
 title: Research
 permalink: /research/
 ---
+<span style="font-family: 'Times New Roman', serif">Times New Roman</span>  
+<span style="font-family: 'Georgia', serif">Georgia</span>  
+<span style="font-family: 'Garamond', serif">Garamond</span>  
+<span style="font-family: 'Book Antiqua', serif">Book Antiqua</span>  
+<span style="font-family: 'Palatino Linotype', serif">Palatino Linotype</span>  
+<span style="font-family: 'Times', serif">Times</span>  
 
 <span style="font-family: 'Arial', sans-serif">Arial</span>  
 <span style="font-family: 'Helvetica', sans-serif">Helvetica</span>  
@@ -14,6 +20,13 @@ permalink: /research/
 <span style="font-family: 'Lucida Sans Unicode', sans-serif">Lucida Sans Unicode</span>  
 <span style="font-family: 'Tahoma', sans-serif">Tahoma</span>  
 <span style="font-family: 'Geneva', sans-serif">Geneva</span>  
+
+<span style="font-family: 'Courier New', monospace">Courier New</span>  
+<span style="font-family: 'Monaco', monospace">Monaco</span>  
+<span style="font-family: 'Consolas', monospace">Consolas</span>  
+<span style="font-family: 'Lucida Console', monospace">Lucida Console</span>  
+<span style="font-family: 'Courier', monospace">Courier</span>  
+<span style="font-family: 'Menlo', monospace">Menlo</span>  
 
 
 <b>PUBLICATIONS</b>   
