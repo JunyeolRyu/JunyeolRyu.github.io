@@ -14,9 +14,9 @@ permalink: /research/
 
 
 <b>WORKING PAPERS</b>   
-• “Impacts of ZEV on Product Market, Environment, and Health Outcomes” (with Minhae Kim and Myongjin Kim), 2024  
+• “Energy Security and Competition in South Korea” (with Eric Lewis and Myongjin Kim), 2024  
 
-• “Energy Security and Competition in the South Korean” (with Eric Lewis and Myongjin Kim), 2024  
+• “Impacts of ZEV on Product Market, Environment, and Health Outcomes” (with Minhae Kim and Myongjin Kim), 2024  
 
 • “Coordination and Competition: The Role of MMC and Thrifty Entrants in Gasoline Market”, 2024  
 
