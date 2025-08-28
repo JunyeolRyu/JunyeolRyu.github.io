@@ -8,12 +8,13 @@ permalink: /about/
 ### <span style="font-family: 'Times', serif">**Welcome, my name is Junyeol Ryu.** 😄 </span>  
 
 ### <span style="font-family: 'Times', serif">I'm a 5th-year Ph.D. student in Economics at the University of Oklahoma. </span>  
-### <span style="font-family: 'Times', serif">I'm specializing in <span style="color: blue">*IO*, *Energy & Environment Economics*, and *Applied Microeconomics*.</span> </span>  
+### <span style="font-family: 'Times', serif">I'm specializing in <span style="color: blue">*IO*</span>, <span style="color: blue">*Energy & Environment Economics*</span>, and <span style="color: blue">*Applied Microeconomics*</span> </span>  
 
 
 
 
-  
+
+
 #### <span style="font-family: 'Times New Roman', serif">***Research methods***</span>  
 <span style="font-family: 'Times', serif"> 🎓 Structural estimation:</span> <span style="font-family: 'Garamond', serif">demand forecasting, oligopoly supply modeling</span>  
 <span style="font-family: 'Times', serif"> 🤖 Machine learning:</span> <span style="font-family: 'Garamond', serif">large language models (LLM), topic modeling, random forest algorithms</span>  
