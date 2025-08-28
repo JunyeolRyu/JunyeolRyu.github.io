@@ -6,6 +6,7 @@ permalink: /about/
 
 **Welcome, my name is Junyeol Ryu.**  
 
+<span style="font-family: 'Courier New', monospace">I'm a 5th-year Ph.D. student in Economics at the University of Oklahoma.</span>  
 I'm a 5th-year Ph.D. student in Economics at the University of Oklahoma.  
 I'm specializing in *IO(Industrial Organization)*, *Energy & Environment Economics*, and *Applied Microeconomics*.  
 
