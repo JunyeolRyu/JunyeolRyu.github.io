@@ -38,13 +38,10 @@ permalink: /about/
 
 ### <span style="font-family: 'Times New Roman', serif">Contact me</span>  
 
-<span style="font-family: 'Monaco', monospace">Department of Economics</span>  
-<span style="font-family: 'Monaco', monospace">University of Oklahoma</span>  
-<span style="font-family: 'Monaco', monospace">308 Cate Center Drive, Office 230</span>  
-<span style="font-family: 'Monaco', monospace">Norman, OK 73019</span>  
+<span style="font-family: 'Geneva', sans-serif">Department of Economics</span>  
+<span style="font-family: 'Geneva', sans-serif">University of Oklahoma</span>  
+<span style="font-family: 'Geneva', sans-serif">308 Cate Center Drive, Office 230</span>  
+<span style="font-family: 'Geneva', sans-serif">Norman, OK 73019</span>  
 
-
-<span style="font-family: 'Monaco', monospace"> junyeol.ryu-1@ou.edu  (OU) </span>  
-<span style="font-family: 'Monaco', monospace"> ryujy1981@gmail.com (personal) </span> 
-
-
+<span style="font-family: 'Geneva', sans-serif">junyeol.ryu-1@ou.edu *(OU)* </span>  
+<span style="font-family: 'Geneva', sans-serif">ryujy1981@gmail.com *(personal)* </span>  
