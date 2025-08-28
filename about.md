@@ -44,7 +44,7 @@ permalink: /about/
 <span style="font-family: 'Monaco', monospace">Norman, OK 73019</span>  
 
 
-<span style="font-family: 'Courier New', monospace"> junyeol.ryu-1@ou.edu  (OU) </span>  
-<span style="font-family: 'Courier New', monospace"> ryujy1981@gmail.com (personal) </span> 
+<span style="font-family: 'Monaco', monospace"> junyeol.ryu-1@ou.edu  (OU) </span>  
+<span style="font-family: 'Monaco', monospace"> ryujy1981@gmail.com (personal) </span> 
 
 
