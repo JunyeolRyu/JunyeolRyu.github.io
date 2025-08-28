@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**Welcome, my name is Junyeol Ryu.**  
+<span style="font-family: 'Georgia', serif">**Welcome, my name is Junyeol Ryu.**</span>  
 
 <span style="font-family: 'Courier New', monospace">I'm a 5th-year Ph.D. student in Economics at the University of Oklahoma.</span>  
 I'm a 5th-year Ph.D. student in Economics at the University of Oklahoma.  
