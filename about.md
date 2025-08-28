@@ -16,10 +16,10 @@ permalink: /about/
 
 
 #### <span style="font-family: 'Times New Roman', serif">***Research methods***</span>  
-<span style="font-family: 'Times', serif"> 🎓 Structural estimation:</span> <span style="font-family: 'Garamond', serif">demand forecasting, oligopoly supply modeling</span>  
-<span style="font-family: 'Times', serif"> 🤖 Machine learning:</span> <span style="font-family: 'Garamond', serif">large language models (LLM), topic modeling, random forest algorithms</span>  
-<span style="font-family: 'Times', serif"> ➡️ Causal inference:</span> <span style="font-family: 'Garamond', serif">difference-in-difference (including staggered designs), regression discontinuity, matching methods</span>   
-<span style="font-family: 'Times', serif"> 🗺️ Spatial econometrics and geographical analysis</span>  
+<span style="font-family: 'Garamond', serif"> 🎓 Structural estimation:</span> <span style="font-family: 'Garamond', serif">demand forecasting, oligopoly supply modeling</span>  
+<span style="font-family: 'Garamond', serif"> 🤖 Machine learning:</span> <span style="font-family: 'Garamond', serif">large language models (LLM), topic modeling, random forest algorithms</span>  
+<span style="font-family: 'Garamond', serif"> ➡️ Causal inference:</span> <span style="font-family: 'Garamond', serif">difference-in-difference (including staggered designs), regression discontinuity, matching methods</span>   
+<span style="font-family: 'Garamond', serif"> 🗺️ Spatial econometrics and geographical analysis</span>  
  
 
 #### <span style="font-family: 'Times New Roman', serif">***Research areas***</span>  
