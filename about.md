@@ -21,13 +21,13 @@ permalink: /about/
 <span style="font-family: 'Times', serif">• Spatial econometrics and geographical analysis</span>  
  
 
----- <span style="font-family: 'Times New Roman', serif">*Research areas*</span>   ----  
+<span style="font-family: 'Times New Roman', serif">***Research areas***</span>
 <span style="font-family: 'Garamond', serif">• electricity market regulation and design  </span>  
 <span style="font-family: 'Garamond', serif">• liquefied natural gas (LNG) supply chain analysis</span>  
 <span style="font-family: 'Garamond', serif">• airline industry competition and pricing  </span>  
 <span style="font-family: 'Garamond', serif">• gasoline retail station market dynamics  </span>  
 
----- <span style="font-family: 'Times New Roman', serif">*Statistical software*</span>   ----  
+<span style="font-family: 'Times New Roman', serif">***Statistical software***</span>
 
 <span style="font-family: 'Garamond', serif">• Stata  </span>  
 <span style="font-family: 'Garamond', serif">• R  </span>  
