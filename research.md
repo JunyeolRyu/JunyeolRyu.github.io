@@ -3,30 +3,30 @@ layout: page
 title: Research
 permalink: /research/
 ---
-<span style="font-family: 'Times New Roman', serif">Times New Roman</span>  
-<span style="font-family: 'Georgia', serif">Georgia</span>  
-<span style="font-family: 'Garamond', serif">Garamond</span>  
-<span style="font-family: 'Book Antiqua', serif">Book Antiqua</span>  
-<span style="font-family: 'Palatino Linotype', serif">Palatino Linotype</span>  
-<span style="font-family: 'Times', serif">Times</span>  
+<span style="font-family: 'Times New Roman', serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Georgia', serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Garamond', serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Book Antiqua', serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Palatino Linotype', serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Times', serif">What Occurs When a Shot is Fired?</span>  
 
-<span style="font-family: 'Arial', sans-serif">Arial</span>  
-<span style="font-family: 'Helvetica', sans-serif">Helvetica</span>  
-<span style="font-family: 'Verdana', sans-serif">Verdana</span>  
-<span style="font-family: 'Calibri', sans-serif">Calibri</span>  
-<span style="font-family: 'Trebuchet MS', sans-serif">Trebuchet MS</span>  
-<span style="font-family: 'Arial Black', sans-serif">Arial Black</span>  
-<span style="font-family: 'Impact', sans-serif">Impact</span>  
-<span style="font-family: 'Lucida Sans Unicode', sans-serif">Lucida Sans Unicode</span>  
-<span style="font-family: 'Tahoma', sans-serif">Tahoma</span>  
-<span style="font-family: 'Geneva', sans-serif">Geneva</span>  
+<span style="font-family: 'Arial', sans-serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Helvetica', sans-serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Verdana', sans-serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Calibri', sans-serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Trebuchet MS', sans-serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Arial Black', sans-serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Impact', sans-serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Lucida Sans Unicode', sans-serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Tahoma', sans-serif">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Geneva', sans-serif">What Occurs When a Shot is Fired?</span>  
 
-<span style="font-family: 'Courier New', monospace">Courier New</span>  
-<span style="font-family: 'Monaco', monospace">Monaco</span>  
-<span style="font-family: 'Consolas', monospace">Consolas</span>  
-<span style="font-family: 'Lucida Console', monospace">Lucida Console</span>  
-<span style="font-family: 'Courier', monospace">Courier</span>  
-<span style="font-family: 'Menlo', monospace">Menlo</span>  
+<span style="font-family: 'Courier New', monospace">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Monaco', monospace">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Consolas', monospace">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Lucida Console', monospace">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Courier', monospace">What Occurs When a Shot is Fired?</span>  
+<span style="font-family: 'Menlo', monospace">What Occurs When a Shot is Fired?</span>  
 
 
 <b>PUBLICATIONS</b>   
