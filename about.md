@@ -12,7 +12,7 @@ I'm specializing in IO, Energy & Environment Economics, and Applied Microeconomi
 
 My research methods  
 • structural estimation: demand forecasting, oligopoly supply modeling  
-• machine learning: LLM(large language models), topic modeling, random forest algorithms  
+• machine learning: large language models (LLM), topic modeling, random forest algorithms  
 • causal inference: difference-in-difference(including staggered designs), regression discontinuity, matching methods  
 • spatial econometrics and geographical analysis  
 
