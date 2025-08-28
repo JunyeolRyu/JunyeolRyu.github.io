@@ -4,21 +4,23 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### University of Oklahoma
 
-<b> Instructor </b>  
-Business Statistics (Summer 2023), undergraduate
+### <span style="font-family: 'Georgia', serif"> University of Oklahoma </span>  
 
-<b> Guest Lecturer </b>  
-Mathematical Economics 1 (Fall 2024), graduate
+<span style="font-family: 'Garamond', serif"><b> Instructor </b></span>  
+<span style="font-family: 'Garamond', serif">Business Statistics (Summer 2023), undergraduate</span>  
 
-<b> Teaching Assistant </b>  
-• Graduate: Mathematical Economics 1  
-• Undergraduate: Business Statistics, Intermediate Microeconomic Theory, Governmental Relations to Business, Behavioral and Experimental Economics  
+<span style="font-family: 'Garamond', serif"><b> Guest Lecturer </b></span>  
+<span style="font-family: 'Garamond', serif">Mathematical Economics 1 (Fall 2024), graduate</span>  
 
-### Soongsil University  
+<span style="font-family: 'Garamond', serif"><b> Teaching Assistant </b></span>  
+<span style="font-family: 'Garamond', serif">• Graduate: Mathematical Economics 1</span>  
+<span style="font-family: 'Garamond', serif">• Undergraduate: Business Statistics, Intermediate Microeconomic Theory, Governmental Relations to Business, Behavioral and Experimental Economics</span>  
 
-<b> Teaching Assistant </b>  
-• Undergraduate: Special Lecture on Economics, Industrial Organization Theory
+
+### <span style="font-family: 'Georgia', serif"> Soongsil University </span>  
+
+<span style="font-family: 'Garamond', serif"><b> Teaching Assistant </b></span>  
+<span style="font-family: 'Garamond', serif">• Undergraduate: Special Lecture on Economics, Industrial Organization Theory</span>  
 
 
