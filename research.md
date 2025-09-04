@@ -22,12 +22,13 @@ permalink: /research/
 <span style="font-family: 'Georgia', serif"> • “Energy Security and Competition in South Korea” (with Eric Lewis and Myongjin Kim), 2024
 </span>  
 
-<div style="margin-left: 1.5rem;">
-  <em style="display:block; margin-bottom:.25rem;">abstract</em>
+<div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
+  <em style="margin:0; font-style:italic; white-space:nowrap;">abstract</em>
   <p lang="en"
-     style="margin:0; text-indent:1rem;
-            text-align:justify; text-justify:inter-word; hyphens:auto;">
-    <span style="font-family: 'Garamond', serif"> .</span>
+     style="margin:0; flex:1;
+            text-align:justify; text-justify:inter-word; hyphens:auto;
+            font-family:'Garamond', serif;">
+    This study .
   </p>
 </div>
 
@@ -35,12 +36,13 @@ permalink: /research/
 <span style="font-family: 'Georgia', serif"> • “Impacts of ZEV on Product Market, Environment, and Health Outcomes” (with Minhae Kim and Myongjin Kim), 2024
 </span>  
 
-<div style="margin-left: 1.5rem;">
-  <em style="display:block; margin-bottom:.25rem;">abstract</em>
+<div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
+  <em style="margin:0; font-style:italic; white-space:nowrap;">abstract</em>
   <p lang="en"
-     style="margin:0; text-indent:1rem;
-            text-align:justify; text-justify:inter-word; hyphens:auto;">
-    <span style="font-family: 'Garamond', serif"> .</span>
+     style="margin:0; flex:1;
+            text-align:justify; text-justify:inter-word; hyphens:auto;
+            font-family:'Garamond', serif;">
+    This study .
   </p>
 </div>
 
@@ -48,12 +50,13 @@ permalink: /research/
 <span style="font-family: 'Georgia', serif"> • “Coordination and Competition: The Role of MMC and Thrifty Entrants in Gasoline Market”, 2024
 </span>  
 
-<div style="margin-left: 1.5rem;">
-  <em style="display:block; margin-bottom:.25rem;">abstract</em>
+<div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
+  <em style="margin:0; font-style:italic; white-space:nowrap;">abstract</em>
   <p lang="en"
-     style="margin:0; text-indent:1rem;
-            text-align:justify; text-justify:inter-word; hyphens:auto;">
-    <span style="font-family: 'Garamond', serif"> .</span>
+     style="margin:0; flex:1;
+            text-align:justify; text-justify:inter-word; hyphens:auto;
+            font-family:'Garamond', serif;">
+    This study .
   </p>
 </div>
 
@@ -68,12 +71,13 @@ permalink: /research/
 <span style="font-family: 'Georgia', serif"> • “Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets” (with Yenjae Chang), 2024, Under Review at <em>International Journal of Industrial Organization</em>
 </span>    
 
-<div style="margin-left: 1.5rem;">
-  <em style="display:block; margin-bottom:.25rem;">abstract</em>
+<div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
+  <em style="margin:0; font-style:italic; white-space:nowrap;">abstract</em>
   <p lang="en"
-     style="margin:0; text-indent:1rem;
-            text-align:justify; text-justify:inter-word; hyphens:auto;">
-    <span style="font-family: 'Garamond', serif"> .</span>
+     style="margin:0; flex:1;
+            text-align:justify; text-justify:inter-word; hyphens:auto;
+            font-family:'Garamond', serif;">
+    This study .
   </p>
 </div>
 
@@ -92,6 +96,9 @@ permalink: /research/
 
 
 
+<span style="font-family: 'Georgia', serif"> • “Marijuana Legalization and Airline Competition” (with Minhae Kim and Myongjin Kim), 2024
+</span>    
+  
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
   <em style="margin:0; font-style:italic; white-space:nowrap;">abstract</em>
   <p lang="en"
@@ -99,23 +106,6 @@ permalink: /research/
             text-align:justify; text-justify:inter-word; hyphens:auto;
             font-family:'Garamond', serif;">
     This study .
-  </p>
-</div>
-
-
-
-
-
-
-<span style="font-family: 'Georgia', serif"> • “Marijuana Legalization and Airline Competition” (with Minhae Kim and Myongjin Kim), 2024
-</span>    
-  
-<div style="margin-left: 1.5rem;">
-  <em style="display:block; margin-bottom:.25rem;">abstract</em>
-  <p lang="en"
-     style="margin:0; text-indent:1rem;
-            text-align:justify; text-justify:inter-word; hyphens:auto;">
-    <span style="font-family: 'Garamond', serif"> .</span>
   </p>
 </div>
 
