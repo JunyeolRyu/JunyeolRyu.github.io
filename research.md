@@ -113,7 +113,7 @@ permalink: /research/
 
 
 
-### <span style="font-family: 'Lucida Console', monospace"><b>WORK IN PROGRESS</b></span>   
+### <span style="font-family: 'Lucida Console', monospace"><b>WORKS IN PROGRESS</b></span>   
 
 <span style="font-family: 'Georgia', serif"> • “A Network, Scoring Auction and Collusion” (with Georgia Kosmopoulou and Myongjin Kim), 2024
 </span>    
