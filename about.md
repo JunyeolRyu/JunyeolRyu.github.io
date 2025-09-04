@@ -15,23 +15,23 @@ permalink: /about/
 
 
 #### <span style="font-family: 'Times New Roman', serif">***Research methods***</span>  
-<span style="font-family: 'Garamond', serif">  Structural estimation:</span> <span style="font-family: 'Garamond', serif">demand forecasting, oligopoly supply modeling</span>  
-<span style="font-family: 'Garamond', serif">  Machine learning:</span> <span style="font-family: 'Garamond', serif">large language models (LLM), topic modeling, random forest algorithms</span>  
-<span style="font-family: 'Garamond', serif">  Causal inference:</span> <span style="font-family: 'Garamond', serif">difference-in-difference (including staggered designs), regression discontinuity, matching methods</span>   
-<span style="font-family: 'Garamond', serif">  Spatial econometrics and geographical analysis</span>  
+<span style="font-family: 'Garamond', serif">  ● Structural estimation:</span> <span style="font-family: 'Garamond', serif">demand forecasting, oligopoly supply modeling</span>  
+<span style="font-family: 'Garamond', serif">  ● Machine learning:</span> <span style="font-family: 'Garamond', serif">large language models (LLM), topic modeling, random forest algorithms</span>  
+<span style="font-family: 'Garamond', serif">  ● Causal inference:</span> <span style="font-family: 'Garamond', serif">difference-in-difference (including staggered designs), regression discontinuity, matching methods</span>   
+<span style="font-family: 'Garamond', serif">  ● Spatial econometrics and geographical analysis</span>  
  
 
 #### <span style="font-family: 'Times New Roman', serif">***Research areas***</span>  
-<span style="font-family: 'Garamond', serif">  Electricity market regulation and design  </span>  
-<span style="font-family: 'Garamond', serif">  Liquefied natural gas (LNG) supply chain analysis</span>  
-<span style="font-family: 'Garamond', serif">  Airline industry competition and pricing  </span>  
-<span style="font-family: 'Garamond', serif">  Gasoline retail station market dynamics  </span>  
+<span style="font-family: 'Garamond', serif">  ● Electricity market regulation and design  </span>  
+<span style="font-family: 'Garamond', serif">  ● Liquefied natural gas (LNG) supply chain analysis</span>  
+<span style="font-family: 'Garamond', serif">  ● Airline industry competition and pricing  </span>  
+<span style="font-family: 'Garamond', serif">  ● Gasoline retail station market dynamics  </span>  
 
 #### <span style="font-family: 'Times New Roman', serif">***Statistical software***</span>  
-<span style="font-family: 'Garamond', serif">  Stata </span>  
-<span style="font-family: 'Garamond', serif">  R  </span>  
-<span style="font-family: 'Garamond', serif">  Python  </span>  
-<span style="font-family: 'Garamond', serif">  Matlab  </span>  
+<span style="font-family: 'Garamond', serif">  ● Stata </span>  
+<span style="font-family: 'Garamond', serif">  ● R  </span>  
+<span style="font-family: 'Garamond', serif">  ● Python  </span>  
+<span style="font-family: 'Garamond', serif">  ● Matlab  </span>  
 
 
 
