@@ -36,7 +36,7 @@ permalink: /about/
 
 
 
-<span style="font-family: 'Times', serif">Contact me</span>  
+#### <span style="font-family: 'Times', serif">Contact me</span>  
 
 <span style="font-family: 'Times', serif">Department of Economics</span>  
 <span style="font-family: 'Times', serif">University of Oklahoma</span>  
