@@ -38,6 +38,7 @@ permalink: /research/
 </span>    
 
 <span style="font-family: 'Georgia', serif"> • “A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Introduction Method” (with Hongseok So, Daewook Kim, and Mankeun Kim), 2024 </span>    
+
 <div style="margin-left: 1.5rem;">
   <em style="display:block; margin-bottom: .25rem;">abstract</em>
   <p style="margin:0; text-indent: 1rem;">
