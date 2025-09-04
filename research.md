@@ -77,7 +77,7 @@ permalink: /research/
      style="margin:0; flex:1;
             text-align:justify; text-justify:inter-word; hyphens:auto;
             font-family:'Garamond', serif;">
-    This study .
+    This paper examines the market impact of a government-led intervention in South Korea’s retail fuel industry: the introduction of “thrifty” gas stations. These stations were supplied with fuel at reduced wholesale costs, thereby entering local markets with a cost advantage over incumbent stations. Drawing on a panel dataset covering approximately 22,000 gasoline stations from 2010 to 2019, we estimate the effects of this policy on fuel prices, market structure, and service quality. Using fixed effects and two-stage least squares (2SLS) models, we find that the entry of thrifty stations significantly lowered average retail gasoline prices through both direct cost-based pricing and intensified local competition. However, these short-run gains diminished over time as high-cost stations exited the market, leading to increased market concentration and weakened price competition. In addition, we document a shift toward self-service formats in treated markets, suggesting that service quality declined as firms adjusted to cost pressures. Taken together, the results indicate that while the policy effectively reduced prices in the short run, its long-run efficacy was undermined by structural and behavioral market adjustments, raising concerns about the dynamic consequences of asymmetric-cost competition under government intervention.
   </p>
 </div>
 
