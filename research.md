@@ -28,7 +28,7 @@ permalink: /research/
      style="margin:0; flex:1;
             text-align:justify; text-justify:inter-word; hyphens:auto;
             font-family:'Garamond', serif;">
-    This study .
+    .
   </p>
 </div>
 
@@ -42,7 +42,7 @@ permalink: /research/
      style="margin:0; flex:1;
             text-align:justify; text-justify:inter-word; hyphens:auto;
             font-family:'Garamond', serif;">
-    This study .
+    .
   </p>
 </div>
 
@@ -56,7 +56,7 @@ permalink: /research/
      style="margin:0; flex:1;
             text-align:justify; text-justify:inter-word; hyphens:auto;
             font-family:'Garamond', serif;">
-    This study .
+    .
   </p>
 </div>
 
@@ -67,6 +67,8 @@ permalink: /research/
 
 <span style="font-family: 'Georgia', serif"> • “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5277996" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case</a>” (with Minhae Kim and Myongjin Kim), 2024, R&R at <em>Review of Industrial Organization</em>
 </span>    
+
+
 
 <span style="font-family: 'Georgia', serif"> • “Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets” (with Yenjae Chang), 2024, Under Review at <em>International Journal of Industrial Organization</em>
 </span>    
@@ -105,7 +107,7 @@ permalink: /research/
      style="margin:0; flex:1;
             text-align:justify; text-justify:inter-word; hyphens:auto;
             font-family:'Garamond', serif;">
-    This study .
+    .
   </p>
 </div>
 
