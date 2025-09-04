@@ -39,6 +39,12 @@ permalink: /research/
 
 <span style="font-family: 'Georgia', serif"> • “A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Introduction Method” (with Hongseok So, Daewook Kim, and Mankeun Kim), 2024
 </span>    
+  <em> abstract </em>
+  : This study empirically compares and analyzes the cost efficiency of two LNG import methods—private direct import and the Korea Gas Corporation's average rate system—in terms of fuel cost under buyer and seller market conditions in the global LNG market. Using Asian LNG spot prices (JKM) from January 2015 to May 2023, the Bai-Perron test was applied to identify changes in market structure. Contrary to the perception that direct importers would hold a cost advantage in buyer markets and KOGAS-supplied generators in seller markets, the empirical analysis revealed that direct importers are relatively advantageous in both market types, with their competitiveness being particularly pronounced in seller markets. This study reexamines the impact of the high market responsiveness and cost efficiency of private direct importers on electricity system.
+
+
+
+
 
 <span style="font-family: 'Georgia', serif"> • “Marijuana Legalization and Airline Competition” (with Minhae Kim and Myongjin Kim), 2024
 </span>    
