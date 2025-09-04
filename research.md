@@ -16,6 +16,9 @@ permalink: /research/
 
 ### <span style="font-family: 'Lucida Console', monospace"><b>WORKING PAPERS</b></span>   
 
+<a href="" rel="noopener"> </a>
+
+
 <span style="font-family: 'Georgia', serif"> • “Energy Security and Competition in South Korea” (with Eric Lewis and Myongjin Kim), 2024
 </span>  
 
@@ -25,10 +28,10 @@ permalink: /research/
 <span style="font-family: 'Georgia', serif"> • “Coordination and Competition: The Role of MMC and Thrifty Entrants in Gasoline Market”, 2024
 </span>  
   
-<span style="font-family: 'Georgia', serif"> • “Tax Reform and Bonuses: Implications for Employee Productivity” (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, Under Review at <em>Strategic Management Journal</em>
+<span style="font-family: 'Georgia', serif"> • “<a href="https://www.dropbox.com/scl/fi/gi87koi28y9m07mpolmuj/Tax_Reform_and_Product_Quality.pdf?rlkey=c3d2jkef8xii836nqtlzq5w43&e=1&dl=0" rel="noopener">Tax Reform and Bonuses: Implications for Employee Productivity</a>” (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, Under Review at <em>Strategic Management Journal</em>
 </span>    
 
-<span style="font-family: 'Georgia', serif"> • “Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case” (with Minhae Kim and Myongjin Kim), 2024, R&R at <em>Review of Industrial Organization</em>
+<span style="font-family: 'Georgia', serif"> • “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5277996" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case</a>” (with Minhae Kim and Myongjin Kim), 2024, R&R at <em>Review of Industrial Organization</em>
 </span>    
 
 <span style="font-family: 'Georgia', serif"> • “Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets” (with Yenjae Chang), 2024, Under Review at <em>International Journal of Industrial Organization</em>
