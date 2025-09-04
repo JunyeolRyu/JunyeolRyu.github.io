@@ -80,16 +80,6 @@ permalink: /research/
 
 <span style="font-family: 'Georgia', serif"> • “A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Introduction Method” (with Hongseok So, Daewook Kim, and Mankeun Kim), 2024 </span>    
 
-<div style="margin-left: 1.5rem;">
-  <em style="display:block; margin-bottom:.25rem;">abstract</em>
-  <p lang="en"
-     style="margin:0; text-indent:1rem;
-            text-align:justify; text-justify:inter-word; hyphens:auto;">
-    <span style="font-family: 'Garamond', serif"> This study empirically compares and analyzes the cost efficiency of two LNG import methods—private direct import and the Korea Gas Corporation’s average rate system—in terms of fuel cost under buyer and seller market conditions in the global LNG market. Using Asian LNG spot prices (JKM) from January 2015 to May 2023, the Bai-Perron test was applied to identify changes in market structure. Contrary to the perception that direct importers would hold a cost advantage in buyer markets and KOGAS-supplied generators in seller markets, the empirical analysis revealed that direct importers are relatively advantageous in both market types, with their competitiveness being particularly pronounced in seller markets. This study reexamines the impact of the high market responsiveness and cost efficiency of private direct importers on electricity system.</span>
-  </p>
-</div>
-
-
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
   <em style="margin:0; font-style:italic; white-space:nowrap;">abstract</em>
   <p lang="en"
@@ -99,6 +89,19 @@ permalink: /research/
     This study empirically compares and analyzes the cost efficiency of two LNG import methods—private direct import and the Korea Gas Corporation’s average rate system—in terms of fuel cost under buyer and seller market conditions in the global LNG market. Using Asian LNG spot prices (JKM) from January 2015 to May 2023, the Bai-Perron test was applied to identify changes in market structure. Contrary to the perception that direct importers would hold a cost advantage in buyer markets and KOGAS-supplied generators in seller markets, the empirical analysis revealed that direct importers are relatively advantageous in both market types, with their competitiveness being particularly pronounced in seller markets. This study reexamines the impact of the high market responsiveness and cost efficiency of private direct importers on electricity system.
   </p>
 </div>
+
+
+
+<div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
+  <em style="margin:0; font-style:italic; white-space:nowrap;">abstract</em>
+  <p lang="en"
+     style="margin:0; flex:1;
+            text-align:justify; text-justify:inter-word; hyphens:auto;
+            font-family:'Garamond', serif;">
+    This study .
+  </p>
+</div>
+
 
 
 
