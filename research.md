@@ -19,7 +19,7 @@ permalink: /research/
 <a href="" rel="noopener"> </a>
 
 
-<span style="font-family: 'Georgia', serif"> • “Energy Security and Competition in South Korea” (with Eric Lewis and Myongjin Kim), 2024
+<span style="font-family: 'Georgia', serif"> • “Energy Security and Competition in South Korea” (with Eric Lewis, Myongjin Kim, and Hongseok So), 2024
 </span>  
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
@@ -70,7 +70,7 @@ permalink: /research/
 
 
 
-<span style="font-family: 'Georgia', serif"> • “Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets” (with Yenjae Chang), 2024, Under Review at <em>International Journal of Industrial Organization</em>
+<span style="font-family: 'Georgia', serif"> • “Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets” (with Yenjae Chang), 2024, Under Review at <em>Energy Economics</em>
 </span>    
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
