@@ -47,7 +47,7 @@ permalink: /research/
 </div>
 
 
-<span style="font-family: 'Georgia', serif"> • “Coordination and Competition: The Role of MMC and Thrifty Entrants in Gasoline Market”, 2024
+<span style="font-family: 'Georgia', serif"> • “Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market”, 2024
 </span>  
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
