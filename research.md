@@ -70,7 +70,7 @@ permalink: /research/
 
 
 
-<span style="font-family: 'Georgia', serif"> • “Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets” (with Yenjae Chang), 2024, Under Review at <em>Energy Economics</em>
+<span style="font-family: 'Georgia', serif"> • “Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets” (with Yenjae Chang), 2024, R&R at <em>Energy Economics</em>
 </span>    
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
