@@ -7,7 +7,7 @@ permalink: /about/
 
 ### <span style="font-family: 'Times', serif">**Welcome, my name is Junyeol Ryu.** </span>  
 
-### <span style="font-family: 'Times', serif">I'm a 5th-year Ph.D. student in Economics at the University of Oklahoma, specializing in <span style="color: blue">*IO*</span>, <span style="color: blue">*Energy & Environment Economics*</span>, and <span style="color: blue">*Applied Microeconomics*</span> </span>  
+### <span style="font-family: 'Times', serif">I'm a Ph.D. candidate in Economics at the University of Oklahoma, specializing in <span style="color: blue">*IO*</span>, <span style="color: blue">*Energy & Environment Economics*</span>, and <span style="color: blue">*Applied Microeconomics*</span> </span>  
 
 
 
