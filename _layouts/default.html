@@ -9,32 +9,66 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <style>
-      /* 전체 컨테이너의 너비를 1200px로 확장합니다 */
+      /* 1. 전체 가로 폭을 1200px로 확장 (박금비 박사님 사이트 스타일) */
       .container {
         max-width: 1200px !important;
         width: 95% !important;
         margin: 0 auto !important;
       }
 
-      /* 메인 콘텐츠 영역의 여백 조정 */
+      /* 2. 상단 메뉴(nav) 스타일 수정 */
+      nav {
+        float: right;
+        margin-top: 23px;
+      }
+
+      nav a {
+        font-size: 1.25rem !important; /* 글자 크기 확대 */
+        font-weight: 600 !important;   /* 글자 두께 선명하게 */
+        margin-left: 25px;            /* 메뉴 간 간격 */
+        color: #333 !important;
+        text-decoration: none;
+        transition: color 0.2s;
+      }
+
+      /* 메뉴 마우스 호버 시 색상 (본문 강조 파란색과 통일) */
+      nav a:hover {
+        color: #0047AB !important;
+        text-decoration: underline;
+      }
+
+      /* 3. 메인 콘텐츠 및 헤더 여백 조정 */
       #main {
         padding: 40px 0;
       }
 
-      /* 헤더 영역도 본문 폭에 맞춰 정렬 */
       .masthead {
         padding: 20px 0;
+        border-bottom: 1px solid #eee;
       }
 
-      /* 모바일 대응: 화면이 작아지면 자동으로 폭 조절 */
-      @media screen and (max-width: 1200px) {
+      .site-info {
+        float: left;
+      }
+
+      /* 모바일 대응 */
+      @media screen and (max-width: 768px) {
         .container {
           width: 90% !important;
         }
+        nav {
+          float: none;
+          display: block;
+          text-align: center;
+          margin-top: 10px;
+        }
+        nav a {
+          margin: 0 10px;
+          font-size: 1.1rem !important;
+        }
       }
     </style>
-
-    </head>
+  </head>
 
   <body>
     <div class="wrapper-masthead">
