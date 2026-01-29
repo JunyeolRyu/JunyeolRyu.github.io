@@ -15,7 +15,8 @@ permalink: /about/
       </td>
 
       <td valign="top" style="padding-left: 30px; padding-top: 0; vertical-align: top;">
-        <h2 style="margin-top: 0; color: #333;">Hello, I'm Junyeol Ryu. Welcome to my website!</h2>
+        <h2 style="margin-top: 0; color: #333;">Hello, I'm Junyeol Ryu.   
+        Welcome to my website!</h2>
         
         <p style="font-size: 1.1em; line-height: 1.6;">
           I’m a Ph.D. candidate in Economics at the University of Oklahoma, 
