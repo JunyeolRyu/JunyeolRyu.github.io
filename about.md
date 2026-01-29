@@ -52,7 +52,6 @@ permalink: /about/
       <p style="margin-top: 0;">junyeol.ryu-1@ou.edu (OU)<br>
       ryujy1981@gmail.com (Personal)
       </p>
-
-</td>
-  </tr>
-</table>
+      </td>
+      </tr>
+      </table>
