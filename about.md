@@ -25,7 +25,7 @@ permalink: /about/
         </p>
         
          <p style="font-size: 1.1em; line-height: 1.6;">
-          I will be on the 2026-2027 job market.</span>.
+          I will be on the 2026-2027 job market.
         </p>
         
 
