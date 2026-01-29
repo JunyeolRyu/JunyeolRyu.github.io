@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Junyeol Ryu
+title: 
 permalink: /about/
 ---
 
-<table border="0", width="100%" style="border-collapse: collapse;">
+<table border="0" width="100%" style="border-collapse: collapse;">
   <tr>
     <td align="left" valign="top" width="330">
       <img src="/Junyeol_Photo.jpg" width="320" style="border-radius: 5px; display: block;">
