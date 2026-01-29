@@ -4,6 +4,17 @@ title: Junyeol Ryu
 permalink: /about/
 ---
 
+<table border="0">
+  <tr>
+    <td align="center" valign="top" width="300">
+      <img src="Junyeol_Photo.jpg" width="250" style="border-radius: 5px;">
+      <p style="font-size: 0.9em; color: #555; margin-top: 10px;">
+        Pronounced as "Jun-Yeol"
+      </p>
+    </td>
+
+
+   <td valign="top" style="padding-left: 20px;">
 
 ### <span style="font-family: 'Times', serif">**Hello, Welcome to my website!** </span>  
 
@@ -45,3 +56,11 @@ permalink: /about/
 
 <span style="font-family: 'Times', serif">junyeol.ryu-1@ou.edu *(OU)* </span>  
 <span style="font-family: 'Times', serif">ryujy1981@gmail.com *(personal)* </span>  
+
+
+</td>
+  </tr>
+</table>
+
+
+
