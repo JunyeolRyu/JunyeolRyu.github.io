@@ -25,7 +25,19 @@ permalink: /about/
         
       <p>I will be on the 2026-2027 job market.</p>
       <br>
-        
+
+
+        <div style="background-color: #0056b3; color: #ffffff; display: inline-block; padding: 5px 12px; font-weight: bold; border-radius: 4px; margin-bottom: 12px; letter-spacing: 0.5px;">
+          Research Areas
+        </div>
+        <p style="margin-top: 0; line-height: 1.7; margin-bottom: 25px;">
+          <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Electricity market regulation and design<br>
+          <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Liquefied natural gas (LNG) supply chain analysis<br>
+          <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Airline industry competition, merger, and pricing<br>
+          <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Gasoline retail station market dynamics
+
+
+         
         <div style="background-color: #0056b3; color: #ffffff; display: inline-block; padding: 5px 12px; font-weight: bold; border-radius: 4px; margin-bottom: 12px; letter-spacing: 0.5px;">
           Research Method
         </div>
@@ -36,15 +48,6 @@ permalink: /about/
           <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Causal Inference: difference-in-difference (including staggered designs), regression discontinuity, matching methods<br>
           <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Spatial Econometrics and Geographical Analysis 
 
-        <div style="background-color: #0056b3; color: #ffffff; display: inline-block; padding: 5px 12px; font-weight: bold; border-radius: 4px; margin-bottom: 12px; letter-spacing: 0.5px;">
-          Research Areas
-        </div>
-        <p style="margin-top: 0; line-height: 1.7; margin-bottom: 25px;">
-          <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Electricity market regulation and design<br>
-          <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Liquefied natural gas (LNG) supply chain analysis<br>
-          <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Airline industry competition, merger, and pricing<br>
-          <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Gasoline retail station market dynamics
- 
         
 
         <div style="background-color: #0056b3; color: #ffffff; display: inline-block; padding: 5px 12px; font-weight: bold; border-radius: 4px; margin-bottom: 12px; letter-spacing: 0.5px;">
