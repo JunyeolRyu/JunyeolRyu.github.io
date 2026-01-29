@@ -30,7 +30,8 @@ permalink: /about/
           Research Method
         </div>
         <p style="margin-top: 0; line-height: 1.7; margin-bottom: 25px;">
-          ● Structural estimation: demand forecasting, oligopoly supply modeling<br>
+        
+          <span style="font-family: 'Garamond', serif"> ● Structural estimation: demand forecasting, oligopoly supply modeling<br> </span>
           ● Machine learning: large language models (LLM), topic modeling, random forest algorithms<br>
           ● Causal inference: difference-in-difference (including staggered designs), regression discontinuity, matching methods<br>
           ● Spatial econometrics and geographical analysis
