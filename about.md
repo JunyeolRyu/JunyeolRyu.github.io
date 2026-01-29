@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HOME
+title: Junyeol Ryu
 permalink: /about/
 ---
 
