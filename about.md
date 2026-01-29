@@ -45,6 +45,9 @@ permalink: /about/
 <span style="font-family: 'Garamond', serif">  ● Matlab  </span>  
 
 
+</td>
+  </tr>
+</table>
 
 
 #### <span style="font-family: 'Times', serif">Contact me</span>  
@@ -58,9 +61,6 @@ permalink: /about/
 <span style="font-family: 'Times', serif">ryujy1981@gmail.com *(personal)* </span>  
 
 
-</td>
-  </tr>
-</table>
 
 
 
