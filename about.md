@@ -34,7 +34,7 @@ permalink: /about/
           <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Structural Estimation: demand forecasting, oligopoly supply modeling<br> </span>
           <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Machine Learning: large language models (LLM), topic modeling, random forest algorithms<br>
           <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Causal Inference: difference-in-difference (including staggered designs), regression discontinuity, matching methods<br>
-          <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Spatial Econometrics and geographical analysis </p>
+          <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Spatial Econometrics and Geographical Analysis 
 
         <div style="background-color: #0056b3; color: #ffffff; display: inline-block; padding: 5px 12px; font-weight: bold; border-radius: 4px; margin-bottom: 12px; letter-spacing: 0.5px;">
           Research Areas
@@ -44,7 +44,7 @@ permalink: /about/
           <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Liquefied natural gas (LNG) supply chain analysis<br>
           <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Airline industry competition, merger, and pricing<br>
           <span style="font-family: 'Times New Roman', serif; font-size: 1.3rem; line-height: 1.8;"> ● Gasoline retail station market dynamics
-        </p>
+ 
         
 
         <div style="background-color: #0056b3; color: #ffffff; display: inline-block; padding: 5px 12px; font-weight: bold; border-radius: 4px; margin-bottom: 12px; letter-spacing: 0.5px;">
@@ -55,7 +55,4 @@ permalink: /about/
           308 Cate Center Drive, Office 230, Norman, OK 73019<br>
           <small>junyeol.ryu-1@ou.edu <i>(OU)</i> | ryujy1981@gmail.com <i>(personal)</i></small>
         </p>
-      </td>
-    </tr>
-  </table>
-</div>
+
