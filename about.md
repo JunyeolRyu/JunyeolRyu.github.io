@@ -16,19 +16,32 @@ permalink: /about/
 
    <td valign="top" style="padding-left: 20px;">
 
-
-<h1>Junyeol Ryu</h1>
-      <p>Welcome, my name is <strong>Junyeol Ryu</strong>.</p>
-      <p>I’m a Ph.D. candidate in Economics at the <strong>University of Oklahoma</strong>, specializing in <span style="color: blue; font-style: italic;">IO, Energy & Environment Economics</span>, and <span style="color: blue; font-style: italic;">Applied Microeconomics</span>.</p>
-
+      <p>Hello, welcome to my website!</p>
+      <p>I’m a Ph.D. candidate in Economics at the <strong>University of Oklahoma</strong>, specializing in <span style="color: blue; font-style: italic;">IO, Energy & Environmental Economics</span>, and <span style="color: blue; font-style: italic;">Applied Microeconomics</span>.</p>
+      
+      <p>I will be on the 2026-2027 job market.</p>
       <br>
 
-      <div style="background-color: #f9f2f2; color: #a52a2a; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 3px; margin-bottom: 10px;">
-        Research Interests
-      </div>
-      <p style="margin-top: 0;">Fields: Industrial Organization, Energy Economics, Applied Microeconomics<br>
-      Topics: Electricity & LNG Markets, Competition Policy, Gasoline Retail</p>
 
+      <div style="background-color: #f9f2f2; color: #a52a2a; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 3px; margin-bottom: 10px;">
+        Research Method
+      </div>
+      <p style="margin-top: 0;">● Structural estimation: demand forecasting, oligopoly supply modeling<br>
+      ● Machine learning: large language models (LLM), topic modeling, random forest algorithms 
+      ● Causal inference: difference-in-difference (including staggered designs), regression discontinuity, matching methods 
+      ● Spatial econometrics and geographical analysis </p>
+
+
+      <div style="background-color: #f9f2f2; color: #a52a2a; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 3px; margin-bottom: 10px;">
+        Research Areas
+      </div>
+      <p style="margin-top: 0;">● Electricity market regulation and design <br>
+      ● Liquefied natural gas (LNG) supply chain analysis
+      ● Airline industry competition, merger, and pricing
+      ● Gasoline retail station market dynamics </p>
+
+      
+      
       <div style="background-color: #f9f2f2; color: #a52a2a; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 3px; margin-bottom: 10px;">
         Contact Information
       </div>
@@ -36,53 +49,13 @@ permalink: /about/
       ryujy1981@gmail.com (Personal)</p>
 
       <div style="background-color: #f9f2f2; color: #a52a2a; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 3px; margin-bottom: 10px;">
-        Mailing Address
+        Contact Me
       </div>
       <p style="margin-top: 0;">Department of Economics, University of Oklahoma<br>
-      308 Cate Center Drive, Office 230, Norman, OK 73019</p>
+      308 Cate Center Drive, Office 230, Norman, OK 73019
+      junyeol.ryu-1@ou.edu *(OU)* ryujy1981@gmail.com *(personal)*</p>
 
 
-### <span style="font-family: 'Times', serif">**Hello, Welcome to my website!** </span>  
-
-### <span style="font-family: 'Times', serif">I'm a Ph.D. candidate in Economics at the University of Oklahoma, specializing in <span style="color: blue">*IO*</span>, <span style="color: blue">*Energy & Environment Economics*</span>, and <span style="color: blue">*Applied Microeconomics*</span> </span>  
-
-### <span style="font-family: 'Times', serif"> I will be on the 2026-2027 job market. </span>  
-
-
-
-
-#### <span style="font-family: 'Times New Roman', serif">***Research methods***</span>  
-<span style="font-family: 'Garamond', serif">  ● Structural estimation:</span> <span style="font-family: 'Garamond', serif">demand forecasting, oligopoly supply modeling</span>  
-<span style="font-family: 'Garamond', serif">  ● Machine learning:</span> <span style="font-family: 'Garamond', serif">large language models (LLM), topic modeling, random forest algorithms</span>  
-<span style="font-family: 'Garamond', serif">  ● Causal inference:</span> <span style="font-family: 'Garamond', serif">difference-in-difference (including staggered designs), regression discontinuity, matching methods</span>   
-<span style="font-family: 'Garamond', serif">  ● Spatial econometrics and geographical analysis</span>  
- 
-
-#### <span style="font-family: 'Times New Roman', serif">***Research areas***</span>  
-<span style="font-family: 'Garamond', serif">  ● Electricity market regulation and design  </span>  
-<span style="font-family: 'Garamond', serif">  ● Liquefied natural gas (LNG) supply chain analysis</span>  
-<span style="font-family: 'Garamond', serif">  ● Airline industry competition and pricing  </span>  
-<span style="font-family: 'Garamond', serif">  ● Gasoline retail station market dynamics  </span>  
-
-#### <span style="font-family: 'Times New Roman', serif">***Statistical software***</span>  
-<span style="font-family: 'Garamond', serif">  ● Stata </span>  
-<span style="font-family: 'Garamond', serif">  ● R  </span>  
-<span style="font-family: 'Garamond', serif">  ● Python  </span>  
-<span style="font-family: 'Garamond', serif">  ● Matlab  </span>  
-
-
-
-
-
-#### <span style="font-family: 'Times', serif">Contact me</span>  
-
-<span style="font-family: 'Times', serif">Department of Economics</span>  
-<span style="font-family: 'Times', serif">University of Oklahoma</span>  
-<span style="font-family: 'Times', serif">308 Cate Center Drive, Office 230</span>  
-<span style="font-family: 'Times', serif">Norman, OK 73019</span>  
-
-<span style="font-family: 'Times', serif">junyeol.ryu-1@ou.edu *(OU)* </span>  
-<span style="font-family: 'Times', serif">ryujy1981@gmail.com *(personal)* </span>  
 
       
 
