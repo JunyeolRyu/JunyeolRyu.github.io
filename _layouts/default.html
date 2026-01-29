@@ -5,15 +5,36 @@
 
     {% include meta.html %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+    <style>
+      /* 전체 컨테이너의 너비를 1200px로 확장합니다 */
+      .container {
+        max-width: 1200px !important;
+        width: 95% !important;
+        margin: 0 auto !important;
+      }
+
+      /* 메인 콘텐츠 영역의 여백 조정 */
+      #main {
+        padding: 40px 0;
+      }
+
+      /* 헤더 영역도 본문 폭에 맞춰 정렬 */
+      .masthead {
+        padding: 20px 0;
+      }
+
+      /* 모바일 대응: 화면이 작아지면 자동으로 폭 조절 */
+      @media screen and (max-width: 1200px) {
+        .container {
+          width: 90% !important;
+        }
+      }
+    </style>
+
+    </head>
 
   <body>
     <div class="wrapper-masthead">
@@ -31,7 +52,6 @@
             <a href="{{ site.baseurl }}/Junyeol Ryu CV_new__.pdf">CV</a>
             <a href="{{ site.baseurl }}/research">Research</a>
             <a href="{{ site.baseurl }}/teaching">Teaching</a>
-            
           </nav>
         </header>
       </div>
