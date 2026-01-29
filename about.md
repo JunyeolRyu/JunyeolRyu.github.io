@@ -7,7 +7,7 @@ permalink: /about/
 <table border="0">
   <tr>
     <td align="center" valign="top" width="300">
-      <img src="Junyeol_Photo.jpg" width="250" style="border-radius: 5px;">
+      <img src="/Junyeol_Photo.jpg" width="250" style="border-radius: 5px;">
       <p style="font-size: 0.9em; color: #555; margin-top: 10px;">
         Pronounced as "Jun-Yeol"
       </p>
