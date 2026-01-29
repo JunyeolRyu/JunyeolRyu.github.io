@@ -23,12 +23,9 @@ permalink: /about/
           and <span style="color: #0056b3; font-style: italic;">Applied Microeconomics</span>.
         </p>
         
-        <p style="font-size: 1.1em; font-weight: bold; color: #d9534f;">
-          I will be on the 2026-2027 job market.
-        </p>
+      <p>I will be on the 2026-2027 job market.</p>
+      <br>
         
-        <br>
-
         <div style="background-color: #0056b3; color: #ffffff; display: inline-block; padding: 5px 12px; font-weight: bold; border-radius: 4px; margin-bottom: 12px; letter-spacing: 0.5px;">
           Research Method
         </div>
@@ -49,13 +46,6 @@ permalink: /about/
           ● Gasoline retail station market dynamics
         </p>
         
-        <div style="background-color: #0056b3; color: #ffffff; display: inline-block; padding: 5px 12px; font-weight: bold; border-radius: 4px; margin-bottom: 12px; letter-spacing: 0.5px;">
-          Contact Information
-        </div>
-        <p style="margin-top: 0; line-height: 1.6; margin-bottom: 25px;">
-          <a href="mailto:junyeol.ryu-1@ou.edu" style="text-decoration: none; color: #333;">junyeol.ryu-1@ou.edu</a> (OU)<br>
-          <a href="mailto:ryujy1981@gmail.com" style="text-decoration: none; color: #333;">ryujy1981@gmail.com</a> (Personal)
-        </p>
 
         <div style="background-color: #0056b3; color: #ffffff; display: inline-block; padding: 5px 12px; font-weight: bold; border-radius: 4px; margin-bottom: 12px; letter-spacing: 0.5px;">
           Contact Me
