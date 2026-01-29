@@ -24,9 +24,10 @@ permalink: /about/
           and <span style="color: #0056b3; font-style: italic;">Applied Microeconomics</span>.
         </p>
         
-      <p>I will be on the 2026-2027 job market.</p>
-      <br>
-
+         <p style="font-size: 1.1em; line-height: 1.6;">
+          I will be on the 2026-2027 job market.</span>.
+        </p>
+        
 
         <div style="background-color: #0056b3; color: #ffffff; display: inline-block; padding: 5px 12px; font-weight: bold; border-radius: 4px; margin-bottom: 12px; letter-spacing: 0.5px;">
           Research Areas
