@@ -31,10 +31,10 @@ permalink: /about/
         </div>
         <p style="margin-top: 0; line-height: 1.7; margin-bottom: 25px;">
         
-          <span style="font-family: 'Times New Roman', serif"> ● Structural estimation: demand forecasting, oligopoly supply modeling<br> </span>
-          ● Machine learning: large language models (LLM), topic modeling, random forest algorithms<br>
-          ● Causal inference: difference-in-difference (including staggered designs), regression discontinuity, matching methods<br>
-          ● Spatial econometrics and geographical analysis
+          <span style="font-family: 'Times New Roman', serif; font-size: 1.15rem; line-height: 1.8;"> ● Structural estimation: demand forecasting, oligopoly supply modeling<br> </span>
+          <span style="font-family: 'Times New Roman', serif"> ● Machine learning: large language models (LLM), topic modeling, random forest algorithms<br>
+          <span style="font-family: 'Times New Roman', serif"> ● Causal inference: difference-in-difference (including staggered designs), regression discontinuity, matching methods<br>
+          <span style="font-family: 'Times New Roman', serif"> ● Spatial econometrics and geographical analysis
         </p>
 
         <div style="background-color: #0056b3; color: #ffffff; display: inline-block; padding: 5px 12px; font-weight: bold; border-radius: 4px; margin-bottom: 12px; letter-spacing: 0.5px;">
