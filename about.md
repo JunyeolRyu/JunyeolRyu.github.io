@@ -15,10 +15,10 @@ permalink: /about/
       </td>
 
       <td valign="top" style="padding-left: 30px; padding-top: 0; vertical-align: top;">
-        <h2 style="margin-top: 0; color: #333;">Hello, welcome to my website!</h2>
+        <h2 style="margin-top: 0; color: #333;">I'm Junyeol, welcome to my website!</h2>
         
         <p style="font-size: 1.1em; line-height: 1.6;">
-          I’m <strong>Junyeol Ryu</strong>, a Ph.D. candidate in Economics at the University of Oklahoma, 
+          I’m a Ph.D. candidate in Economics at the University of Oklahoma, 
           specializing in <span style="color: #0056b3; font-style: italic;">IO, Energy & Environmental Economics</span>, 
           and <span style="color: #0056b3; font-style: italic;">Applied Microeconomics</span>.
         </p>
