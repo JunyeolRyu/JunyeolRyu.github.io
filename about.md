@@ -17,7 +17,7 @@ permalink: /about/
    <td valign="top" style="padding-left: 15px;">
 
       <p style="margin-top: 0;">Hello, welcome to my website!</p>
-      <p>I’m a Ph.D. candidate in Economics at the <strong>University of Oklahoma</strong>, specializing in <span style="color: blue; font-style: italic;">IO, Energy & Environmental Economics</span>, and <span style="color: blue; font-style: italic;">Applied Microeconomics</span>.</p>
+      <p>I’m a Ph.D. candidate in Economics at the University of Oklahoma, specializing in <span style="font-style: italic;">IO, Energy & Environmental Economics</span>, and <span style="font-style: italic;">Applied Microeconomics</span>.</p>
       
       <p>I will be on the 2026-2027 job market.</p>
       <br>
