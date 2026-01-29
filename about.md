@@ -56,6 +56,6 @@ permalink: /about/
         <p style="margin-top: 0; line-height: 1.6;">
           Department of Economics, University of Oklahoma<br>
           308 Cate Center Drive, Office 230, Norman, OK 73019<br>
-          <small>junyeol.ryu-1@ou.edu <i>(OU)</i> | ryujy1981@gmail.com <i>(personal)</i></small>
+          <small>junyeol.ryu-1@ou.edu <i>(OU)</i>  |  ryujy1981@gmail.com <i>(personal)</i></small>
         </p>
 
