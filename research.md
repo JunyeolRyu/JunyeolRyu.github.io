@@ -74,10 +74,6 @@ permalink: /research/
 
 
 
-<span style="font-family: 'Georgia', serif"> • “Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets” (with Yenjae Chang), 2024, R&R at <em>Energy Economics</em>
-</span>    
-
-
 <span style="font-family: 'Georgia', serif"> • “A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Introduction Method” (with Hongseok So, Daewook Kim, and Mankeun Kim), 2024 </span>    
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
