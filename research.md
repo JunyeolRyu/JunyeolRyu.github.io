@@ -7,7 +7,11 @@ permalink: /research/
 
 ### <span style="font-family: 'Lucida Console', monospace"><b>PUBLICATIONS</b></span>  
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">What Occurs When a Shot is Fired? Gender Differences in Housing Markets</a>” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), Forthcoming at <em>Marketing Letters</em>, 2024, <em>1st author</em> </span>
+
+<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets</a>” (with Yenjae Chang), <em>Energy Economics</em>, Volume 155, March 2026, 109144, 
+
+
+<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">What Occurs When a Shot is Fired? Gender Differences in Housing Markets</a>” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <em>Marketing Letters</em>, Volume 36, pages 369-38, *co 1st author*
 
 
 <span style="font-family: 'Georgia', serif"> • “<a href="https://www.sciencedirect.com/science/article/pii/S0140988320304308" rel="noopener">Household differentiation and residential electricity demand in Korea</a>” (with Daewook Kim and Mankeun Kim), <em>Energy Economics</em>, Volume 95, March 2021, *1st author*   
@@ -61,7 +65,7 @@ permalink: /research/
 </div>
 
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://www.dropbox.com/scl/fi/gi87koi28y9m07mpolmuj/Tax_Reform_and_Product_Quality.pdf?rlkey=c3d2jkef8xii836nqtlzq5w43&e=1&dl=0" rel="noopener">Tax Reform and Bonuses: Implications for Employee Productivity</a>” (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, Under Review at <em>Strategic Management Journal</em>
+<span style="font-family: 'Georgia', serif"> • “<a href="https://www.dropbox.com/scl/fi/gi87koi28y9m07mpolmuj/Tax_Reform_and_Product_Quality.pdf?rlkey=c3d2jkef8xii836nqtlzq5w43&e=1&dl=0" rel="noopener">Tax Reform and Bonuses: Implications for Employee Productivity</a>” (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, Under Review at <em>Journal of Corporate Finance</em>
 </span>    
 
 
@@ -72,16 +76,6 @@ permalink: /research/
 
 <span style="font-family: 'Georgia', serif"> • “Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets” (with Yenjae Chang), 2024, R&R at <em>Energy Economics</em>
 </span>    
-
-<div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
-  <em style="margin:0; font-style:italic; white-space:nowrap;">abstract</em>
-  <p lang="en"
-     style="margin:0; flex:1;
-            text-align:justify; text-justify:inter-word; hyphens:auto;
-            font-family:'Garamond', serif;">
-    This paper examines the market impact of a government-led intervention in South Korea’s retail fuel industry: the introduction of “thrifty” gas stations. These stations were supplied with fuel at reduced wholesale costs, thereby entering local markets with a cost advantage over incumbent stations. Drawing on a panel dataset covering approximately 22,000 gasoline stations from 2010 to 2019, we estimate the effects of this policy on fuel prices, market structure, and service quality. Using fixed effects and two-stage least squares (2SLS) models, we find that the entry of thrifty stations significantly lowered average retail gasoline prices through both direct cost-based pricing and intensified local competition. However, these short-run gains diminished over time as high-cost stations exited the market, leading to increased market concentration and weakened price competition. In addition, we document a shift toward self-service formats in treated markets, suggesting that service quality declined as firms adjusted to cost pressures. Taken together, the results indicate that while the policy effectively reduced prices in the short run, its long-run efficacy was undermined by structural and behavioral market adjustments, raising concerns about the dynamic consequences of asymmetric-cost competition under government intervention.
-  </p>
-</div>
 
 
 <span style="font-family: 'Georgia', serif"> • “A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Introduction Method” (with Hongseok So, Daewook Kim, and Mankeun Kim), 2024 </span>    
