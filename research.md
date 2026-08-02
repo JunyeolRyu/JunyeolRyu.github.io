@@ -6,16 +6,16 @@ permalink: /research/
 
 ### <span style="font-family: 'Noto Serif', serif"><b>PUBLICATIONS</b></span>  
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11151-026-10057-1" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case</a>” (with Minhae Kim and Myongjin Kim), <em><u>Forthcoming</u></em> at <strong><em>Review of Industrial Organization</em></strong>, *co 1st author* 
+<span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://link.springer.com/article/10.1007/s11151-026-10057-1" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case</a>” (with Minhae Kim and Myongjin Kim), <em><u>Forthcoming</u></em> at <strong><em>Review of Industrial Organization</em></strong>, *co 1st author* 
 </span>    
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://www.sciencedirect.com/science/article/abs/pii/S014098832600023X" target="_blank" rel="noopener">Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets</a>” (with Yenjae Chang), <strong><em>Energy Economics</em></strong>, Volume 155, March 2026, 109144, 
+<span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://www.sciencedirect.com/science/article/abs/pii/S014098832600023X" target="_blank" rel="noopener">Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets</a>” (with Yenjae Chang), <strong><em>Energy Economics</em></strong>, Volume 155, March 2026, 109144, 
 </span>    
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">What Occurs When a Shot is Fired? Gender Differences in Housing Markets</a>” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <strong><em>Marketing Letters</em></strong>, Volume 36, pages 369-38, *co 1st author*
+<span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">What Occurs When a Shot is Fired? Gender Differences in Housing Markets</a>” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <strong><em>Marketing Letters</em></strong>, Volume 36, pages 369-38, *co 1st author*
 </span>    
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://www.sciencedirect.com/science/article/pii/S0140988320304308" rel="noopener">Household differentiation and residential electricity demand in Korea</a>” (with Daewook Kim and Mankeun Kim), <strong><em>Energy Economics</em></strong>, Volume 95, March 2021, *1st author*   
+<span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://www.sciencedirect.com/science/article/pii/S0140988320304308" rel="noopener">Household differentiation and residential electricity demand in Korea</a>” (with Daewook Kim and Mankeun Kim), <strong><em>Energy Economics</em></strong>, Volume 95, March 2021, *1st author*   
 </span>  
   
 
@@ -24,7 +24,7 @@ permalink: /research/
 <a href="" rel="noopener"> </a>
 
 
-<span style="font-family: 'Georgia', serif"> • “Energy Security and Competition in South Korea” (with Eric Lewis, Myongjin Kim, and Hongseok So), 2024, *1st author*
+<span style="font-family: 'Newsreader', Georgia, serif"> • “Energy Security and Competition in South Korea” (with Eric Lewis, Myongjin Kim, and Hongseok So), 2024, *1st author*
 </span>  
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
@@ -38,7 +38,7 @@ permalink: /research/
 </div>
 
 
-<span style="font-family: 'Georgia', serif"> • “Impacts of ZEV on Product Market, Environment, and Health Outcomes” (with Minhae Kim and Myongjin Kim), 2024, *1st author*
+<span style="font-family: 'Newsreader', Georgia, serif"> • “Impacts of ZEV on Product Market, Environment, and Health Outcomes” (with Minhae Kim and Myongjin Kim), 2024, *1st author*
 </span>  
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
@@ -55,16 +55,16 @@ permalink: /research/
 
 
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7025078" target="_blank" rel="noopener">Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market</a>” (with Qi Ge and Myongjin Kim), 2024, *1st author*, <em><u>Submitted</u></em> to <strong><em>The Review of Economics and Statistics (REStat)</em></strong>
+<span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7025078" target="_blank" rel="noopener">Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market</a>” (with Qi Ge and Myongjin Kim), 2024, *1st author*, <em><u>Submitted</u></em> to <strong><em>The Review of Economics and Statistics (REStat)</em></strong>
 </span>  
 
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://www.dropbox.com/scl/fi/gi87koi28y9m07mpolmuj/Tax_Reform_and_Product_Quality.pdf?rlkey=c3d2jkef8xii836nqtlzq5w43&e=1&dl=0" rel="noopener">Tax Reform and Bonuses: Implications for Employee Productivity</a>” (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, <em><u>R&R</u></em> at <strong><em>Journal of Economic Behavior and Organization (JEBO)</em></strong>
+<span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://www.dropbox.com/scl/fi/gi87koi28y9m07mpolmuj/Tax_Reform_and_Product_Quality.pdf?rlkey=c3d2jkef8xii836nqtlzq5w43&e=1&dl=0" rel="noopener">Tax Reform and Bonuses: Implications for Employee Productivity</a>” (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, <em><u>R&R</u></em> at <strong><em>Journal of Economic Behavior and Organization (JEBO)</em></strong>
 </span>    
 
 
 
-<span style="font-family: 'Georgia', serif"> • “A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Introduction Method” (with Hongseok So, Daewook Kim, and Mankeun Kim), 2024, <em><u>Submitted</u></em> to <strong><em>Energy Policy</em></strong> 
+<span style="font-family: 'Newsreader', Georgia, serif"> • “A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Introduction Method” (with Hongseok So, Daewook Kim, and Mankeun Kim), 2024, <em><u>Submitted</u></em> to <strong><em>Energy Policy</em></strong> 
 </span>    
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
@@ -77,7 +77,7 @@ permalink: /research/
   </p>
 </div>
 
-<span style="font-family: 'Georgia', serif"> • “Marijuana Legalization and Airline Competition” (with Minhae Kim and Myongjin Kim), 2024
+<span style="font-family: 'Newsreader', Georgia, serif"> • “Marijuana Legalization and Airline Competition” (with Minhae Kim and Myongjin Kim), 2024
 </span>    
 
 
@@ -85,26 +85,26 @@ permalink: /research/
 
 ### <span style="font-family: 'Noto Serif', serif"><b>WORKS IN PROGRESS</b></span>   
 
-<span style="font-family: 'Georgia', serif"> • “A Network, Scoring Auction and Collusion” (with Georgia Kosmopoulou, Hojin Jung and Myongjin Kim), 2024
+<span style="font-family: 'Newsreader', Georgia, serif"> • “A Network, Scoring Auction and Collusion” (with Georgia Kosmopoulou, Hojin Jung and Myongjin Kim), 2024
 </span>    
 
-<span style="font-family: 'Georgia', serif"> • “A Study of Renewable Energy Policy on Electricity Market in South Korea, Jeju” (with Hongseok So), 2025
+<span style="font-family: 'Newsreader', Georgia, serif"> • “A Study of Renewable Energy Policy on Electricity Market in South Korea, Jeju” (with Hongseok So), 2025
 </span>  
 
 
 
-<span style="font-family: 'Georgia', serif"> • “Procurement Collusion and Network” (with Myongjin Kim and Yunmi Kong), 2025
+<span style="font-family: 'Newsreader', Georgia, serif"> • “Procurement Collusion and Network” (with Myongjin Kim and Yunmi Kong), 2025
 </span> 
 
 
-<span style="font-family: 'Georgia', serif"> • “Gas Station Location Selection with Multi-Market Contact and Market Power”, 2025
+<span style="font-family: 'Newsreader', Georgia, serif"> • “Gas Station Location Selection with Multi-Market Contact and Market Power”, 2025
 </span> 
 
-<span style="font-family: 'Georgia', serif"> • “The Impact of SAF on Supply Chain, Market Outcome”, 2024
+<span style="font-family: 'Newsreader', Georgia, serif"> • “The Impact of SAF on Supply Chain, Market Outcome”, 2024
 </span> 
 
 
-<span style="font-family: 'Georgia', serif"> •  “Regionally Differentiated Electricity Prices and Price Elasticity” (with Sumi Seon and Daewook Kim), 2026
+<span style="font-family: 'Newsreader', Georgia, serif"> •  “Regionally Differentiated Electricity Prices and Price Elasticity” (with Sumi Seon and Daewook Kim), 2026
 </span> 
 
 
