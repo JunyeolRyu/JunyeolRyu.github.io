@@ -6,10 +6,10 @@ permalink: /research/
 
 ### <span style="font-family: 'Lucida Console', monospace"><b>PUBLICATIONS</b></span>  
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case”</a>” (with Minhae Kim and Myongjin Kim), <em><u>Forthcoming</u></em> at <strong><em>Review of Industrial Organization</em></strong>, *co 1st author* 
+<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11151-026-10057-1" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case”</a>” (with Minhae Kim and Myongjin Kim), <em><u>Forthcoming</u></em> at <strong><em>Review of Industrial Organization</em></strong>, *co 1st author* 
 </span>    
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1(https://www.sciencedirect.com/science/article/abs/pii/S014098832600023X)" target="_blank" rel="noopener">Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets</a>” (with Yenjae Chang), <strong><em>Energy Economics</em></strong>, Volume 155, March 2026, 109144, 
+<span style="font-family: 'Georgia', serif"> • “<a href="https://www.sciencedirect.com/science/article/abs/pii/S014098832600023X" target="_blank" rel="noopener">Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets</a>” (with Yenjae Chang), <strong><em>Energy Economics</em></strong>, Volume 155, March 2026, 109144, 
 </span>    
 
 <span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">What Occurs When a Shot is Fired? Gender Differences in Housing Markets</a>” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <strong><em>Marketing Letters</em></strong>, Volume 36, pages 369-38, *co 1st author*
