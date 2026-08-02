@@ -80,7 +80,17 @@ permalink: /about/
   letter-spacing: 0.5px;
 }
 
+.about-intro h3 {
+  font-size: 1.05rem;
+  color: #0056b3;
+  margin: 28px 0 12px 0;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #dde5ee;
+}
 
+.about-intro h3:first-of-type { margin-top: 22px; }
+
+   
 /* ----------------------------------------------------------
    3. BULLET LIST  —  Research Areas / Research Method
    ---------------------------------------------------------- */
