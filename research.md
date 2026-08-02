@@ -1,20 +1,21 @@
 ---
 layout: page
-title: Research
+title: 
 permalink: /research/
 ---
 
-
 ### <span style="font-family: 'Lucida Console', monospace"><b>PUBLICATIONS</b></span>  
 
-
-<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets</a>” (with Yenjae Chang), <em>Energy Economics</em>, Volume 155, March 2026, 109144, 
-
-
-<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">What Occurs When a Shot is Fired? Gender Differences in Housing Markets</a>” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <em>Marketing Letters</em>, Volume 36, pages 369-38, *co 1st author*
+<span style="font-family: 'Georgia', serif"> • “<a href="[https://link.springer.com/article/10.1007/s11002-024-09755-1](https://link.springer.com/article/10.1007/s11151-026-10057-1)" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case”</a>” (with Minhae Kim and Myongjin Kim), <em><u>Forthcoming </em></u>at <strong><em>Review of Industrial Organization</em></strong>, Volume 155, March 2026, 109144, *co 1st author* 
 
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://www.sciencedirect.com/science/article/pii/S0140988320304308" rel="noopener">Household differentiation and residential electricity demand in Korea</a>” (with Daewook Kim and Mankeun Kim), <em>Energy Economics</em>, Volume 95, March 2021, *1st author*   
+<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets</a>” (with Yenjae Chang), <strong><em>Energy Economics</em></strong>, Volume 155, March 2026, 109144, 
+
+
+<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">What Occurs When a Shot is Fired? Gender Differences in Housing Markets</a>” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <strong><em>Marketing Letters</strong></em>, Volume 36, pages 369-38, *co 1st author*
+
+
+<span style="font-family: 'Georgia', serif"> • “<a href="https://www.sciencedirect.com/science/article/pii/S0140988320304308" rel="noopener">Household differentiation and residential electricity demand in Korea</a>” (with Daewook Kim and Mankeun Kim), <strong><em>Energy Economics<strong><em>, Volume 95, March 2021, *1st author*   
 </span>  
   
 
