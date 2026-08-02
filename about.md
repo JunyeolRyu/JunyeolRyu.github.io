@@ -249,12 +249,11 @@ ul.news-list li::before {
 
     <div class="about-intro">
 
-      <h2>Hello, I'm Junyeol Ryu. Welcome to my website!</h2>
+      <h2>Welcome to my website!</h2>
 
 
       <p class="lead">
-        I'm a Ph.D. candidate in Economics at the University of Oklahoma,
-        specializing in
+        Hello, I'm Junyeol Ryu, a Ph.D. candidate in Economics at the University of Oklahoma. My research interests are
         <span style="color:#0056b3; font-style:italic;">IO, Energy &amp; Environmental Economics</span>,
         and
         <span style="color:#0056b3; font-style:italic;">Applied Microeconomics</span>.
@@ -332,17 +331,46 @@ ul.news-list li::before {
 
         <ul class="news-list">
 
+        
           <li>
-            <span class="news-date">Jun 2026</span> -
-            Joined the <strong>NOAA Project</strong> as a Research Assistant (with Dr. Myongjin Kim).
+            <span class="news-date">July 2026</span> -
+            <em>"Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market"</em>
+            is submitted to the <strong>Review of Economics and Statistics (RESTAT)</strong>.
           </li>
 
+   
+          
+          <li>
+            <span class="news-date">June 2026</span> -
+            <em>"A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Import Method"</em>
+            is submitted at <strong>Energy Policy</strong>.
+          </li>
+
+          
+           <li>
+            <span class="news-date">May 2026</span> -
+            <em>"Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case"</em>
+            is accepted at the <strong>Review of Industrial Organization (RIO)</strong>.
+          </li>
+          
+
+
+          
+           <li>
+            <span class="news-date">May 2026</span> -
+            <em>"Tax Reform and Bonuses: Implications for Employee Productivity"</em>
+            received an <strong>R&amp;R</strong> at <strong>Journal of Economic Behavior and Organization (JEBO)</strong>.
+          </li>
+
+          
+          
           <li>
             <span class="news-date">Apr 2026</span> -
             I have been awarded the
             <strong>Dodge Family College of Arts and Sciences Dissertation Completion Fellowship</strong>,
             University of Oklahoma.
           </li>
+
 
           <li>
             <span class="news-date">Mar 2026</span> -
@@ -351,43 +379,21 @@ ul.news-list li::before {
             is published at <strong>Energy Economics</strong>.
           </li>
 
+ 
           <li>
-            <span class="news-date">Feb 2026</span> -
-            <em>"Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case"</em>
-            is accepted at the <strong>Review of Industrial Organization</strong>.
-          </li>
-
-          <li>
-            <span class="news-date">Oct 2025</span> -
-            <em>"Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact"</em>
-            is submitted to the <strong>Review of Economics and Statistics</strong>.
-          </li>
-
-          <li>
-            <span class="news-date">Aug 2025</span> -
-            <em>"Tax Reform and Bonuses: Implications for Employee Productivity"</em>
-            received an <strong>R&amp;R</strong> at the
-            <strong>Journal of Economic Behavior and Organization</strong>.
-          </li>
-
-          <li>
-            <span class="news-date">Jun 2025</span> -
+            <span class="news-date">September 2025</span> -
             I have been awarded the <strong>Chong Liew Summer Research Award</strong>,
             University of Oklahoma.
           </li>
 
-          <li>
-            <span class="news-date">Mar 2025</span> -
-            <em>"What Occurs When a Shot is Fired? Gender Differences in Housing Markets"</em>
-            is published at <strong>Marketing Letters</strong>.
-          </li>
+
 
         </ul>
 
       </div>
 
 
-      <!-- ---------- 오른쪽 : Conferences and Seminars ---------- -->
+      <!-- ---------- 오른쪽 : Conferences & Seminars ---------- -->
 
       <div class="news-col">
 
@@ -431,8 +437,8 @@ ul.news-list li::before {
           </li>
 
           <li>
-            <span class="news-date">Apr 2025</span> -
-            <strong>OU Ph.D. Economics Conference</strong> (Norman, OK)
+            <span class="news-date">May 2025</span> -
+            <strong>OU-OSU Ph.D. Economics Conference</strong> (Norman, OK)
           </li>
 
           <li>
