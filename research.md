@@ -6,7 +6,7 @@ permalink: /research/
 
 ### <span style="font-family: 'Lucida Console', monospace"><b>PUBLICATIONS</b></span>  
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1](https://link.springer.com/article/10.1007/s11151-026-10057-1)" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case”</a>” (with Minhae Kim and Myongjin Kim), <em><u>Forthcoming </em></u>at <strong><em>Review of Industrial Organization</em></strong>, *co 1st author* 
+<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1](https://link.springer.com/article/10.1007/s11151-026-10057-1)" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case”</a>” (with Minhae Kim and Myongjin Kim), <em><u>Forthcoming</em></u> at <strong><em>Review of Industrial Organization</em></strong>, *co 1st author* 
 
 
 <span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets</a>” (with Yenjae Chang), <strong><em>Energy Economics</em></strong>, Volume 155, March 2026, 109144, 
@@ -24,7 +24,7 @@ permalink: /research/
 <a href="" rel="noopener"> </a>
 
 
-<span style="font-family: 'Georgia', serif"> • “Energy Security and Competition in South Korea” (with Eric Lewis, Myongjin Kim, and Hongseok So), 2024
+<span style="font-family: 'Georgia', serif"> • “Energy Security and Competition in South Korea” (with Eric Lewis, Myongjin Kim, and Hongseok So), 2024, *1st author*
 </span>  
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
@@ -38,7 +38,7 @@ permalink: /research/
 </div>
 
 
-<span style="font-family: 'Georgia', serif"> • “Impacts of ZEV on Product Market, Environment, and Health Outcomes” (with Minhae Kim and Myongjin Kim), 2024
+<span style="font-family: 'Georgia', serif"> • “Impacts of ZEV on Product Market, Environment, and Health Outcomes” (with Minhae Kim and Myongjin Kim), 2024, *1st author*
 </span>  
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
@@ -52,7 +52,7 @@ permalink: /research/
 </div>
 
 
-<span style="font-family: 'Georgia', serif"> • “Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market”, 2024
+<span style="font-family: 'Georgia', serif"> • “Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market” (with Qi Ge and Myongjin Kim), 2024, *1st author*
 </span>  
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
