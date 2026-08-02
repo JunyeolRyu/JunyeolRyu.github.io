@@ -52,7 +52,7 @@ permalink: /research/
 </div>
 
 
-<span style="font-family: 'Georgia', serif"> • “Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market” (with Qi Ge and Myongjin Kim), 2024, *1st author*
+<span style="font-family: 'Georgia', serif"> • “Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market” (with Qi Ge and Myongjin Kim), 2024, *1st author*, <em><u>submitted to</em></u> <strong><em>The Review of Economics and Statistics (RESTAT)</em></strong>
 </span>  
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
