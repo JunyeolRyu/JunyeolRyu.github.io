@@ -59,17 +59,6 @@ permalink: /research/
 </span>  
 
 
-<div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
-  <em style="margin:0; font-style:italic; white-space:nowrap;">abstract</em>
-  <p lang="en"
-     style="margin:0; flex:1;
-            text-align:justify; text-justify:inter-word; hyphens:auto;
-            font-family:'Garamond', serif;">
-    .
-  </p>
-</div>
-
-
 <span style="font-family: 'Georgia', serif"> • “<a href="https://www.dropbox.com/scl/fi/gi87koi28y9m07mpolmuj/Tax_Reform_and_Product_Quality.pdf?rlkey=c3d2jkef8xii836nqtlzq5w43&e=1&dl=0" rel="noopener">Tax Reform and Bonuses: Implications for Employee Productivity</a>” (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, <em><u>R&R</u></em> at <strong><em>Journal of Economic Behavior and Organization (JEBO)</em></strong>
 </span>    
 
@@ -88,26 +77,15 @@ permalink: /research/
   </p>
 </div>
 
-
-
 <span style="font-family: 'Georgia', serif"> • “Marijuana Legalization and Airline Competition” (with Minhae Kim and Myongjin Kim), 2024
 </span>    
-  
-<div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
-  <em style="margin:0; font-style:italic; white-space:nowrap;">abstract</em>
-  <p lang="en"
-     style="margin:0; flex:1;
-            text-align:justify; text-justify:inter-word; hyphens:auto;
-            font-family:'Garamond', serif;">
-    .
-  </p>
-</div>
+
 
 
 
 ### <span style="font-family: 'Lucida Console', monospace"><b>WORKS IN PROGRESS</b></span>   
 
-<span style="font-family: 'Georgia', serif"> • “A Network, Scoring Auction and Collusion” (with Georgia Kosmopoulou and Myongjin Kim), 2024
+<span style="font-family: 'Georgia', serif"> • “A Network, Scoring Auction and Collusion” (with Georgia Kosmopoulou, Hojin Jung and Myongjin Kim), 2024
 </span>    
 
 <span style="font-family: 'Georgia', serif"> • “A Study of Renewable Energy Policy on Electricity Market in South Korea, Jeju” (with Hongseok So), 2025
@@ -115,7 +93,23 @@ permalink: /research/
 
 
 
+<span style="font-family: 'Georgia', serif"> • “Procurement Collusion and Network” (with Myongjin Kim and Yunmi Kong), 2025
+</span> 
 
+
+<span style="font-family: 'Georgia', serif"> • “Gas Station Location Selection with Multi-Market Contact and Market Power”, 2025
+</span> 
+
+<span style="font-family: 'Georgia', serif"> • “The Impact of SAF on Supply Chain, Market Outcome”, 2024
+</span> 
+
+
+<span style="font-family: 'Georgia', serif"> •  “Regionally Differentiated Electricity Prices and Price Elasticity” (with Sumi Seon and Daewook Kim), 2026
+</span> 
+
+
+<span style="font-family: 'Georgia', serif"> •  “Reshaping Entrepreneurship? Lessons from the Kansas Tax Experiment” (with Bowei Dong), 2026
+</span> 
 
 
 
