@@ -1,46 +1,53 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
   <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <!-- ======================================================
+         WEB FONTS
+         ====================================================== -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Literata:wght@400;600;700&display=swap" rel="stylesheet">
+
+
+    <!-- ======================================================
+         THEME CSS  +  RSS
+         ====================================================== -->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml">
+
 
     <style>
-      /* 1. 전체 가로 폭을 1200px로 확장 */
+
+      /* ==================================================
+         1. LAYOUT WIDTH
+         ================================================== */
+
       .container {
         max-width: 1200px !important;
         width: 95% !important;
         margin: 0 auto !important;
       }
 
-      /* 2. 상단 메뉴(nav) 스타일 수정 */
-      nav {
-        float: right;
-        margin-top: 23px;
-      }
-
-      nav a {
-        font-size: 1.25rem !important; /* 글자 크기 확대 */
-        font-weight: 600 !important;   /* 글자 두께 선명하게 */
-        margin-left: 25px;            /* 메뉴 간 간격 */
-        color: #333 !important;
-        text-decoration: none;
-        transition: color 0.2s;
-      }
-
-      /* 메뉴 마우스 호버 시 색상 (본문 강조 파란색과 통일) */
-      nav a:hover {
-        color: #0047AB !important;
-        text-decoration: underline;
-      }
-
-      /* 3. 메인 콘텐츠 및 헤더 여백 조정 */
       #main {
         padding: 40px 0;
       }
+
+
+      /* ==================================================
+         2. MASTHEAD  —  이름 / 소개
+         ================================================== */
 
       .masthead {
         padding: 20px 0;
@@ -51,30 +58,100 @@
         float: left;
       }
 
-      /* 모바일 대응 */
+      .site-name,
+      .site-name a {
+        font-family: 'Literata', Georgia, serif !important;
+        font-weight: 700;
+        color: #222 !important;
+        text-decoration: none;
+      }
+
+      .site-description {
+        font-family: 'Literata', Georgia, serif !important;
+        font-weight: 400;
+        color: #666 !important;
+      }
+
+
+      /* ==================================================
+         3. NAVIGATION  —  About / CV / Research / Teaching
+         ================================================== */
+
+      nav {
+        float: right;
+        margin-top: 23px;
+      }
+
+      nav a {
+        font-family: 'Literata', Georgia, serif !important;
+        font-size: 1.2rem !important;
+        font-weight: 600 !important;
+        margin-left: 25px;
+        color: #333 !important;
+        text-decoration: none;
+        transition: color 0.2s;
+      }
+
+      nav a:hover {
+        color: #0047AB !important;
+        text-decoration: underline;
+      }
+
+      nav a:focus-visible {
+        outline: 2px solid #0047AB;
+        outline-offset: 3px;
+      }
+
+
+      /* ==================================================
+         4. MOBILE
+         ================================================== */
+
       @media screen and (max-width: 768px) {
-        .container {
-          width: 90% !important;
+
+        .container { width: 90% !important; }
+
+        .site-info {
+          float: none;
+          text-align: center;
         }
+
         nav {
           float: none;
           display: block;
           text-align: center;
-          margin-top: 10px;
+          margin-top: 14px;
         }
+
         nav a {
           margin: 0 10px;
-          font-size: 1.1rem !important;
+          font-size: 1.05rem !important;
+          display: inline-block;
+          padding: 4px 0;
         }
+
+        #main { padding: 28px 0; }
       }
+
     </style>
+
   </head>
 
+
   <body>
+
+    <!-- ======================================================
+         HEADER
+         ====================================================== -->
+
     <div class="wrapper-masthead">
       <div class="container">
+
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+          <a href="{{ site.baseurl }}/" class="site-avatar">
+            <img src="{{ site.avatar }}" alt="">
+          </a>
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
@@ -83,17 +160,29 @@
 
           <nav>
             <a href="{{ site.baseurl }}/about">About</a>
-            <a href="{{ site.baseurl }}/Junyeol Ryu CV_new__.pdf">CV</a>
+            <a href="{{ site.baseurl }}/Junyeol_Ryu_CV.pdf">CV</a>
             <a href="{{ site.baseurl }}/research">Research</a>
             <a href="{{ site.baseurl }}/teaching">Teaching</a>
           </nav>
+
         </header>
+
       </div>
     </div>
+
+
+    <!-- ======================================================
+         MAIN
+         ====================================================== -->
 
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
+
+
+    <!-- ======================================================
+         FOOTER
+         ====================================================== -->
 
     <div class="wrapper-footer">
       <div class="container">
@@ -104,5 +193,7 @@
     </div>
 
     {% include analytics.html %}
+
   </body>
+
 </html>
