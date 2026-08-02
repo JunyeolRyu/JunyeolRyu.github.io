@@ -333,24 +333,24 @@ ul.news-list li::before {
 
         
           <li>
-            <span class="news-date">July 2026</span> -
+            <span class="news-date">Jul 2026</span> -
             <em>"Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market"</em>
-            is submitted to the <strong>Review of Economics and Statistics (RESTAT)</strong>.
+            is <strong>submitted<strong> to the <strong>Review of Economics and Statistics (RESTAT)</strong>.
           </li>
 
    
           
           <li>
-            <span class="news-date">June 2026</span> -
+            <span class="news-date">Jun 2026</span> -
             <em>"A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Import Method"</em>
-            is submitted at <strong>Energy Policy</strong>.
+            is <strong>submitted<strong> at <strong>Energy Policy</strong>.
           </li>
 
           
            <li>
             <span class="news-date">May 2026</span> -
             <em>"Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case"</em>
-            is accepted at the <strong>Review of Industrial Organization (RIO)</strong>.
+            is <strong>accepted</strong> at the <strong>Review of Industrial Organization (RIO)</strong>.
           </li>
           
 
@@ -376,12 +376,12 @@ ul.news-list li::before {
             <span class="news-date">Mar 2026</span> -
             <em>"Price Competition and Market Dynamics Under Asymmetric Costs:
             Evidence from Discount Gas Stations on Local Markets"</em>
-            is published at <strong>Energy Economics</strong>.
+            is <strong>published</strong> at <strong>Energy Economics</strong>.
           </li>
 
  
           <li>
-            <span class="news-date">September 2025</span> -
+            <span class="news-date">Sep 2025</span> -
             I have been awarded the <strong>Chong Liew Summer Research Award</strong>,
             University of Oklahoma.
           </li>
@@ -422,7 +422,7 @@ ul.news-list li::before {
           </li>
 
           <li>
-            <span class="news-date">Feb 2026</span> -
+            <span class="news-date">Apr 2026</span> -
             <strong>OU Ph.D. Economics Brown Bag Seminar</strong> (Norman, OK)
           </li>
 
@@ -431,6 +431,11 @@ ul.news-list li::before {
             <strong>Southern Economic Association (SEA) 2025 Annual Meeting</strong> (Tampa, FL)
           </li>
 
+          <li>
+            <span class="news-date">Oct 2025</span> -
+            <strong>OU Ph.D. Economics Brown Bag Seminar</strong> (Norman, OK)
+          </li>
+          
           <li>
             <span class="news-date">Jun 2025</span> -
             <strong>Western Economic Association International (WEAI) 2025</strong> (San Francisco, CA)
@@ -441,10 +446,6 @@ ul.news-list li::before {
             <strong>OU-OSU Ph.D. Economics Conference</strong> (Norman, OK)
           </li>
 
-          <li>
-            <span class="news-date">Feb 2025</span> -
-            <strong>OU Ph.D. Economics Brown Bag Seminar</strong> (Norman, OK)
-          </li>
 
         </ul>
 
