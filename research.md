@@ -100,15 +100,15 @@ permalink: /research/
 <span style="font-family: 'Newsreader', Georgia, serif"> • “Gas Station Location Selection with Multi-Market Contact and Market Power”, 2025
 </span> 
 
-<span style="font-family: 'Newsreader', Georgia"> • “The Impact of SAF on Supply Chain, Market Outcome”, 2024
+<span style="font-family: 'Newsreader', Georgia, serif"> • “The Impact of SAF on Supply Chain, Market Outcome”, 2024
 </span> 
 
 
-<span style="font-family: 'Newsreader', serif"> •  “Regionally Differentiated Electricity Prices and Price Elasticity” (with Sumi Seon and Daewook Kim), 2026
+<span style="font-family: 'Newsreader', Georgia, serif"> •  “Regionally Differentiated Electricity Prices and Price Elasticity” (with Sumi Seon and Daewook Kim), 2026
 </span> 
 
 
-<span style="font-family: 'Georgia', serif"> •  “Reshaping Entrepreneurship? Lessons from the Kansas Tax Experiment” (with Bowei Dong), 2026
+<span style="font-family: 'Newsreader', Georgia, serif"> •  “Reshaping Entrepreneurship? Lessons from the Kansas Tax Experiment” (with Bowei Dong), 2026
 </span> 
 
 
