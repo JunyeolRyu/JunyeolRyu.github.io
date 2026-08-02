@@ -333,7 +333,7 @@ ul.news-list li::before {
 
         
           <li>
-            <span class="news-date">Jul 2026</span> -
+            <span class="news-date"><Jul 2026></span> -
             <em>"Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market"</em>
             is <em><u>submitted</u></em> to the <strong>Review of Economics and Statistics (RESTAT)</strong>.
           </li>
@@ -341,14 +341,14 @@ ul.news-list li::before {
    
           
           <li>
-            <span class="news-date">Jun 2026</span> -
+            <span class="news-date"><Jun 2026></span> -
             <em>"A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Import Method"</em>
             is <em><u>under review</u></em> at <strong>Energy Policy</strong>.
           </li>
 
           
            <li>
-            <span class="news-date">May 2026</span> -
+            <span class="news-date"><May 2026></span> -
             <em>"Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case"</em>
             is <em><u>accepted</u></em> at the <strong>Review of Industrial Organization (RIO)</strong>.
           </li>
@@ -357,7 +357,7 @@ ul.news-list li::before {
 
           
            <li>
-            <span class="news-date">May 2026</span> -
+            <span class="news-date"><May 2026></span> -
             <em>"Tax Reform and Bonuses: Implications for Employee Productivity"</em>
             received an <em><u>R&amp;R</u></em> at <strong>Journal of Economic Behavior and Organization (JEBO)</strong>.
           </li>
@@ -365,7 +365,7 @@ ul.news-list li::before {
           
           
           <li>
-            <span class="news-date">Apr 2026</span> -
+            <span class="news-date"><Apr 2026></span> -
             I have been awarded the
             <strong>Dodge Family College of Arts and Sciences Dissertation Completion Fellowship</strong>,
             University of Oklahoma.
@@ -375,15 +375,15 @@ ul.news-list li::before {
 
  
           <li>
-            <span class="news-date">Mar 2026</span> -
+            <span class="news-date"><Mar 2026></span> -
             <em>"Price Competition and Market Dynamics Under Asymmetric Costs:
             Evidence from Discount Gas Stations on Local Markets"</em>
-            is <strong><u>published</u></strong> at <strong>Energy Economics</strong>.
+            is <em><u>published</u></em> at <strong>Energy Economics</strong>.
           </li>
 
  
           <li>
-            <span class="news-date">Sep 2025</span> -
+            <span class="news-date"><Sep 2025></span> -
             I have been awarded the <strong>Chong Liew Summer Research Award</strong>,
             University of Oklahoma.
           </li>
@@ -404,47 +404,47 @@ ul.news-list li::before {
         <ul class="news-list">
 
           <li>
-            <span class="news-date">Jan 2027</span> -
+            <span class="news-date"><Jan 2027></span> -
             <strong>ASSA 2027 Annual Meeting</strong> (Washington, D.C.) - <em>scheduled</em>
           </li>
 
           <li>
-            <span class="news-date">Nov 2026</span> -
+            <span class="news-date"><Nov 2026></span> -
             <strong>Southern Economic Association (SEA) 2026 Annual Meeting</strong> (Houston, TX) - <em>scheduled</em>
           </li>
 
           <li>
-            <span class="news-date">Jul 2026</span> -
+            <span class="news-date"><Jul 2026></span> -
             <strong>Western Economic Association International (WEAI) 2026</strong> (Denver, CO)
           </li>
 
           <li>
-            <span class="news-date">Apr 2026</span> -
+            <span class="news-date"><Apr 2026></span> -
             <strong>International Industrial Organization Conference (IIOC) 2026</strong> (Boston, MA)
           </li>
 
           <li>
-            <span class="news-date">Apr 2026</span> -
+            <span class="news-date"><Apr 2026></span> -
             <strong>OU Ph.D. Economics Brown Bag Seminar</strong> (Norman, OK)
           </li>
 
           <li>
-            <span class="news-date">Nov 2025</span> -
+            <span class="news-date"><Nov 2025></span> -
             <strong>Southern Economic Association (SEA) 2025 Annual Meeting</strong> (Tampa, FL)
           </li>
 
           <li>
-            <span class="news-date">Oct 2025</span> -
+            <span class="news-date"><Oct 2025></span> -
             <strong>OU Ph.D. Economics Brown Bag Seminar</strong> (Norman, OK)
           </li>
           
           <li>
-            <span class="news-date">Jun 2025</span> -
+            <span class="news-date"><Jun 2025></span> -
             <strong>Western Economic Association International (WEAI) 2025</strong> (San Francisco, CA)
           </li>
 
           <li>
-            <span class="news-date">May 2025</span> -
+            <span class="news-date"><May 2025></span> -
             <strong>OU-OSU Ph.D. Economics Conference</strong> (Norman, OK)
           </li>
 
