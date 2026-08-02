@@ -244,55 +244,79 @@ ul.news-list li::before {
 
     </div>
 
-
-    <!-- ---------- 오른쪽 : 소개글 ---------- -->
-
+============================================================
+[1] CSS  —  <style> 블록 안에 추가하세요
+     (기존 .about-label 규칙 자리에 넣으시면 됩니다)
+============================================================
+ 
+/* Section heading  —  Research Areas / Research Method / Contact Me */
+ 
+.about-intro h3 {
+  font-size: 1.05rem;
+  color: #0056b3;
+  margin: 28px 0 12px 0;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #dde5ee;
+}
+ 
+/* 첫 번째 h3는 위 여백을 조금 줄임 */
+ 
+.about-intro h3:first-of-type {
+  margin-top: 22px;
+}
+ 
+ 
+============================================================
+[2] HTML  —  about-intro 블록 전체를 아래 내용으로 교체
+============================================================
+ 
+    <!-- 오른쪽 : 소개글 -->
+ 
     <div class="about-intro">
-
+ 
       <h2>Welcome to my website!</h2>
-
-
+ 
       <p class="lead">
-        Hello, I'm Junyeol Ryu, a Ph.D. candidate in Economics at the University of Oklahoma. My research interests are
+        Hello, I'm Junyeol Ryu, a Ph.D. candidate in Economics at the University of Oklahoma.
+        My research interests are
         <span style="color:#0056b3; font-style:italic;">IO, Energy &amp; Environmental Economics</span>,
         and
         <span style="color:#0056b3; font-style:italic;">Applied Microeconomics</span>.
       </p>
-
-
+ 
       <p class="lead">
         I will be on the 2026-2027 job market.
       </p>
-
-
-      <!-- ----- Research Areas ----- -->
-
-      <div class="about-label">Research Areas</div>
-
+ 
+ 
+      <!-- Research Areas -->
+ 
+      <h3>Research Areas</h3>
+ 
       <ul class="about-list">
         <li>Electricity market regulation and design</li>
         <li>Liquefied natural gas (LNG) supply chain analysis</li>
         <li>Airline industry competition, merger, and pricing</li>
         <li>Gasoline retail station market dynamics</li>
       </ul>
-
-
-      <!-- ----- Research Method ----- -->
-
-      <div class="about-label">Research Method</div>
-
+ 
+ 
+      <!-- Research Method -->
+ 
+      <h3>Research Method</h3>
+ 
       <ul class="about-list">
         <li>Structural Estimation: demand forecasting, oligopoly supply modeling</li>
         <li>Machine Learning: large language models (LLM), topic modeling, random forest algorithms</li>
         <li>Causal Inference: difference-in-differences (including staggered designs), regression discontinuity, matching methods</li>
         <li>Spatial Econometrics and Geographical Analysis</li>
       </ul>
-
-
-      <!-- ----- Contact ----- -->
-
-      <div class="about-label">Contact Me</div>
-
+ 
+ 
+      <!-- Contact Me -->
+ 
+      <h3>Contact Me</h3>
+ 
       <p class="about-contact">
         Department of Economics, University of Oklahoma<br>
         308 Cate Center Drive, Office 230, Norman, OK 73019<br>
@@ -302,12 +326,10 @@ ul.news-list li::before {
           ryujy1981@gmail.com <i>(personal)</i>
         </small>
       </p>
-
+ 
     </div>
-
-
+ 
   </div>
-
 
 
 
@@ -333,7 +355,7 @@ ul.news-list li::before {
 
         
           <li>
-            <span class="news-date"><Jul 2026></span> -
+            <span class="news-date">< Jul 2026 ></span> -
             <em>"Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market"</em>
             is <em><u>submitted</u></em> to the <strong>Review of Economics and Statistics (RESTAT)</strong>.
           </li>
@@ -341,14 +363,14 @@ ul.news-list li::before {
    
           
           <li>
-            <span class="news-date"><Jun 2026></span> -
+            <span class="news-date">< Jun 2026 ></span> -
             <em>"A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Import Method"</em>
             is <em><u>under review</u></em> at <strong>Energy Policy</strong>.
           </li>
 
           
            <li>
-            <span class="news-date"><May 2026></span> -
+            <span class="news-date">< May 2026 ></span> -
             <em>"Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case"</em>
             is <em><u>accepted</u></em> at the <strong>Review of Industrial Organization (RIO)</strong>.
           </li>
@@ -357,7 +379,7 @@ ul.news-list li::before {
 
           
            <li>
-            <span class="news-date"><May 2026></span> -
+            <span class="news-date">< May 2026 ></span> -
             <em>"Tax Reform and Bonuses: Implications for Employee Productivity"</em>
             received an <em><u>R&amp;R</u></em> at <strong>Journal of Economic Behavior and Organization (JEBO)</strong>.
           </li>
@@ -365,7 +387,7 @@ ul.news-list li::before {
           
           
           <li>
-            <span class="news-date"><Apr 2026></span> -
+            <span class="news-date">< Apr 2026 ></span> -
             I have been awarded the
             <strong>Dodge Family College of Arts and Sciences Dissertation Completion Fellowship</strong>,
             University of Oklahoma.
@@ -375,7 +397,7 @@ ul.news-list li::before {
 
  
           <li>
-            <span class="news-date"><Mar 2026></span> -
+            <span class="news-date">< Mar 2026 ></span> -
             <em>"Price Competition and Market Dynamics Under Asymmetric Costs:
             Evidence from Discount Gas Stations on Local Markets"</em>
             is <em><u>published</u></em> at <strong>Energy Economics</strong>.
@@ -383,7 +405,7 @@ ul.news-list li::before {
 
  
           <li>
-            <span class="news-date"><Sep 2025></span> -
+            <span class="news-date">< Sep 2025 ></span> -
             I have been awarded the <strong>Chong Liew Summer Research Award</strong>,
             University of Oklahoma.
           </li>
@@ -404,47 +426,47 @@ ul.news-list li::before {
         <ul class="news-list">
 
           <li>
-            <span class="news-date"><Jan 2027></span> -
+            <span class="news-date">< Jan 2027 ></span> -
             <strong>ASSA 2027 Annual Meeting</strong> (Washington, D.C.) - <em>scheduled</em>
           </li>
 
           <li>
-            <span class="news-date"><Nov 2026></span> -
+            <span class="news-date">< Nov 2026 ></span> -
             <strong>Southern Economic Association (SEA) 2026 Annual Meeting</strong> (Houston, TX) - <em>scheduled</em>
           </li>
 
           <li>
-            <span class="news-date"><Jul 2026></span> -
+            <span class="news-date">< Jul 2026 ></span> -
             <strong>Western Economic Association International (WEAI) 2026</strong> (Denver, CO)
           </li>
 
           <li>
-            <span class="news-date"><Apr 2026></span> -
+            <span class="news-date">< Apr 2026 ></span> -
             <strong>International Industrial Organization Conference (IIOC) 2026</strong> (Boston, MA)
           </li>
 
           <li>
-            <span class="news-date"><Apr 2026></span> -
+            <span class="news-date">< Apr 2026 ></span> -
             <strong>OU Ph.D. Economics Brown Bag Seminar</strong> (Norman, OK)
           </li>
 
           <li>
-            <span class="news-date"><Nov 2025></span> -
+            <span class="news-date">< Nov 2025 ></span> -
             <strong>Southern Economic Association (SEA) 2025 Annual Meeting</strong> (Tampa, FL)
           </li>
 
           <li>
-            <span class="news-date"><Oct 2025></span> -
+            <span class="news-date">< Oct 2025 ></span> -
             <strong>OU Ph.D. Economics Brown Bag Seminar</strong> (Norman, OK)
           </li>
           
           <li>
-            <span class="news-date"><Jun 2025></span> -
+            <span class="news-date">< Jun 2025 ></span> -
             <strong>Western Economic Association International (WEAI) 2025</strong> (San Francisco, CA)
           </li>
 
           <li>
-            <span class="news-date"><May 2025></span> -
+            <span class="news-date">< May 2025 ></span> -
             <strong>OU-OSU Ph.D. Economics Conference</strong> (Norman, OK)
           </li>
 
