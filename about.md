@@ -80,7 +80,7 @@ permalink: /about/
    ---------------------------------------------------------- */
 
 .about-intro h3 {
-  font-family: 'Newsreader', Georgia, serif;
+  font-family: 'Merriweather', Georgia, serif;
   font-size: 1.15rem;
   font-weight: 600;
   color: #0056b3;
@@ -142,7 +142,7 @@ ul.about-list li::before {
 }
 
 .news-section > h2 {
-  font-family: 'Newsreader', Georgia, serif;
+  font-family: 'Merriweather', Georgia, serif;
   font-weight: 600;
   color: #333;
   margin-top: 0;
@@ -161,7 +161,7 @@ ul.about-list li::before {
 }
 
 .news-col h3 {
-  font-family: 'Newsreader', Georgia, serif;
+  font-family: 'Merriweather', Georgia, serif;
   font-size: 1.15rem;
   font-weight: 600;
   color: #0056b3;
