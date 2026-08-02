@@ -12,10 +12,10 @@ permalink: /research/
 <span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets</a>” (with Yenjae Chang), <strong><em>Energy Economics</em></strong>, Volume 155, March 2026, 109144, 
 </span>    
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">What Occurs When a Shot is Fired? Gender Differences in Housing Markets</a>” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <strong><em>Marketing Letters</strong></em>, Volume 36, pages 369-38, *co 1st author*
+<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">What Occurs When a Shot is Fired? Gender Differences in Housing Markets</a>” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <strong><em>Marketing Letters</em></strong>, Volume 36, pages 369-38, *co 1st author*
 </span>    
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://www.sciencedirect.com/science/article/pii/S0140988320304308" rel="noopener">Household differentiation and residential electricity demand in Korea</a>” (with Daewook Kim and Mankeun Kim), <strong><em>Energy Economics</strong></em>, Volume 95, March 2021, *1st author*   
+<span style="font-family: 'Georgia', serif"> • “<a href="https://www.sciencedirect.com/science/article/pii/S0140988320304308" rel="noopener">Household differentiation and residential electricity demand in Korea</a>” (with Daewook Kim and Mankeun Kim), <strong><em>Energy Economics</em></strong>, Volume 95, March 2021, *1st author*   
 </span>  
   
 
@@ -52,7 +52,7 @@ permalink: /research/
 </div>
 
 
-<span style="font-family: 'Georgia', serif"> • “Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market” (with Qi Ge and Myongjin Kim), 2024, *1st author*, <em><u>Submitted</u></em> to <strong><em>The Review of Economics and Statistics (RESTAT)</em></strong>
+<span style="font-family: 'Georgia', serif"> • “Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market” (with Qi Ge and Myongjin Kim), 2024, *1st author*, <em><u>Submitted</u></em> to <strong><em>The Review of Economics and Statistics (REStat)</em></strong>
 </span>  
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
