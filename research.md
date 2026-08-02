@@ -6,7 +6,7 @@ permalink: /research/
 
 ### <span style="font-family: 'Lucida Console', monospace"><b>PUBLICATIONS</b></span>  
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1](https://link.springer.com/article/10.1007/s11151-026-10057-1)" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case”</a>” (with Minhae Kim and Myongjin Kim), <em><u>Forthcoming</em></u> at <strong><em>Review of Industrial Organization</em></strong>, *co 1st author* 
+<span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1](https://link.springer.com/article/10.1007/s11151-026-10057-1)" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case”</a>” (with Minhae Kim and Myongjin Kim), <em><u>Forthcoming</u></em> at <strong><em>Review of Industrial Organization</em></strong>, *co 1st author* 
 
 
 <span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets</a>” (with Yenjae Chang), <strong><em>Energy Economics</em></strong>, Volume 155, March 2026, 109144, 
@@ -52,7 +52,7 @@ permalink: /research/
 </div>
 
 
-<span style="font-family: 'Georgia', serif"> • “Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market” (with Qi Ge and Myongjin Kim), 2024, *1st author*, <em><u>submitted to</em></u> <strong><em>The Review of Economics and Statistics (RESTAT)</em></strong>
+<span style="font-family: 'Georgia', serif"> • “Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market” (with Qi Ge and Myongjin Kim), 2024, *1st author*, <em><u>Submitted</u></em> to <strong><em>The Review of Economics and Statistics (RESTAT)</em></strong>
 </span>  
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
@@ -66,7 +66,7 @@ permalink: /research/
 </div>
 
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://www.dropbox.com/scl/fi/gi87koi28y9m07mpolmuj/Tax_Reform_and_Product_Quality.pdf?rlkey=c3d2jkef8xii836nqtlzq5w43&e=1&dl=0" rel="noopener">Tax Reform and Bonuses: Implications for Employee Productivity</a>” (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, <em><u>R&R</em></u> at <strong><em>Journal of Economic Behavior and Organization (JEBO)</em></strong>
+<span style="font-family: 'Georgia', serif"> • “<a href="https://www.dropbox.com/scl/fi/gi87koi28y9m07mpolmuj/Tax_Reform_and_Product_Quality.pdf?rlkey=c3d2jkef8xii836nqtlzq5w43&e=1&dl=0" rel="noopener">Tax Reform and Bonuses: Implications for Employee Productivity</a>” (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, <em><u>R&R</u></em> at <strong><em>Journal of Economic Behavior and Organization (JEBO)</em></strong>
 </span>    
 
 
