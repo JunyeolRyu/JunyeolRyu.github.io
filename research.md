@@ -66,11 +66,7 @@ permalink: /research/
 </div>
 
 
-<span style="font-family: 'Georgia', serif"> • “<a href="https://www.dropbox.com/scl/fi/gi87koi28y9m07mpolmuj/Tax_Reform_and_Product_Quality.pdf?rlkey=c3d2jkef8xii836nqtlzq5w43&e=1&dl=0" rel="noopener">Tax Reform and Bonuses: Implications for Employee Productivity</a>” (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, Under Review at <em>Journal of Corporate Finance</em>
-</span>    
-
-
-<span style="font-family: 'Georgia', serif"> • “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5277996" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case</a>” (with Minhae Kim and Myongjin Kim), 2024, R&R at <em>Review of Industrial Organization</em>
+<span style="font-family: 'Georgia', serif"> • “<a href="https://www.dropbox.com/scl/fi/gi87koi28y9m07mpolmuj/Tax_Reform_and_Product_Quality.pdf?rlkey=c3d2jkef8xii836nqtlzq5w43&e=1&dl=0" rel="noopener">Tax Reform and Bonuses: Implications for Employee Productivity</a>” (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, <em><u>R&R</em></u> at <strong><em>Journal of Economic Behavior and Organization (JEBO)</em></strong>
 </span>    
 
 
