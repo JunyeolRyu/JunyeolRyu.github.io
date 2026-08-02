@@ -335,7 +335,7 @@ ul.news-list li::before {
           <li>
             <span class="news-date">Jul 2026</span> -
             <em>"Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market"</em>
-            is <strong>submitted<strong> to the <strong>Review of Economics and Statistics (RESTAT)</strong>.
+            is <strong>submitted</strong> to the <strong>Review of Economics and Statistics (RESTAT)</strong>.
           </li>
 
    
@@ -343,7 +343,7 @@ ul.news-list li::before {
           <li>
             <span class="news-date">Jun 2026</span> -
             <em>"A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Import Method"</em>
-            is <strong>submitted<strong> at <strong>Energy Policy</strong>.
+            is <strong>submitted</strong> at <strong>Energy Policy</strong>.
           </li>
 
           
@@ -371,7 +371,9 @@ ul.news-list li::before {
             University of Oklahoma.
           </li>
 
+  
 
+ 
           <li>
             <span class="news-date">Mar 2026</span> -
             <em>"Price Competition and Market Dynamics Under Asymmetric Costs:
