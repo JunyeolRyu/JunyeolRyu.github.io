@@ -246,23 +246,6 @@ ul.news-list li::before {
 
 
  
-/* Section heading  —  Research Areas / Research Method / Contact Me */
- 
-.about-intro h3 {
-  font-size: 1.05rem;
-  color: #0056b3;
-  margin: 28px 0 12px 0;
-  padding-bottom: 6px;
-  border-bottom: 1px solid #dde5ee;
-}
- 
-/* 첫 번째 h3는 위 여백을 조금 줄임 */
- 
-.about-intro h3:first-of-type {
-  margin-top: 22px;
-}
- 
-
  
     <!-- 오른쪽 : 소개글 -->
  
