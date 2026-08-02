@@ -4,7 +4,7 @@ title:
 permalink: /research/
 ---
 
-### <span style="font-family: 'Lucida Console', monospace"><b>PUBLICATIONS</b></span>  
+### <span style="font-family: 'Noto Serif', monospace"><b>PUBLICATIONS</b></span>  
 
 <span style="font-family: 'Georgia', serif"> • “<a href="https://link.springer.com/article/10.1007/s11151-026-10057-1" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case</a>” (with Minhae Kim and Myongjin Kim), <em><u>Forthcoming</u></em> at <strong><em>Review of Industrial Organization</em></strong>, *co 1st author* 
 </span>    
@@ -19,7 +19,7 @@ permalink: /research/
 </span>  
   
 
-### <span style="font-family: 'Lucida Console', monospace"><b>WORKING PAPERS</b></span>   
+### <span style="font-family: 'Noto Serif', monospace"><b>WORKING PAPERS</b></span>   
 
 <a href="" rel="noopener"> </a>
 
@@ -83,7 +83,7 @@ permalink: /research/
 
 
 
-### <span style="font-family: 'Lucida Console', monospace"><b>WORKS IN PROGRESS</b></span>   
+### <span style="font-family: 'Noto Serif', monospace"><b>WORKS IN PROGRESS</b></span>   
 
 <span style="font-family: 'Georgia', serif"> • “A Network, Scoring Auction and Collusion” (with Georgia Kosmopoulou, Hojin Jung and Myongjin Kim), 2024
 </span>    
