@@ -98,7 +98,7 @@
 
   <p class="item">
     "<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">What Occurs When a Shot is Fired? Gender Differences in Housing Markets</a>"
-    (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <strong>Marketing Letters</strong>, Volume 36, pages 369-388, <em>co 1st author</em>
+    (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <strong>Marketing Letters</strong>, Volume 36, pages 369-383, <em>co 1st author</em>
   </p>
 
   <p class="item">
