@@ -24,7 +24,7 @@ permalink: /research/
 <a href="" rel="noopener"> </a>
 
 
-<span style="font-family: 'Newsreader', Georgia, serif"> • “Energy Security and Competition in South Korea” (with Eric Lewis, Myongjin Kim, and Hongseok So), 2024, *1st author*
+<span style="font-family: 'Merriweather', Georgia, serif"> • “Energy Security and Competition in South Korea” (with Eric Lewis, Myongjin Kim, and Hongseok So), 2024, *1st author*
 </span>  
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
