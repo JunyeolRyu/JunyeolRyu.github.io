@@ -88,7 +88,7 @@
 
   <p class="item">
     "<a href="https://link.springer.com/article/10.1007/s11151-026-10057-1" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case</a>"
-    (with Minhae Kim and Myongjin Kim), <em><u>forthcoming</u></em> at <em><strong>Review of Industrial Organization</strong>em></strong>, <em>co 1st author</em>
+    (with Minhae Kim and Myongjin Kim), <em><u>forthcoming</u></em> at <em><strong>Review of Industrial Organization</strong></em>, <em>co 1st author</em>
   </p>
 
   <p class="item">
