@@ -149,13 +149,13 @@
   <p class="item">
     "<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7025078" target="_blank" rel="noopener">Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market</a>"
     (with Qi Ge and Myongjin Kim), 2024, <em>1st author</em>, <br>
-     <em><u>submitted</u></em> to the <em><strong>Review of Economics and Statistics (REStat)</strong></em>
+     <em><u>submitted</u></em> to the <em><strong>Review of Economics and Statistics</strong></em>
   </p>
 
   <p class="item">
     "<a href="https://www.dropbox.com/scl/fi/gi87koi28y9m07mpolmuj/Tax_Reform_and_Product_Quality.pdf?rlkey=c3d2jkef8xii836nqtlzq5w43&amp;e=1&amp;dl=0" target="_blank" rel="noopener">Tax Reform and Bonuses: Implications for Employee Productivity</a>"
     (with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon), 2024, <br>
-     <em><u>R&amp;R</u></em> at <em><strong>Journal of Economic Behavior and Organization (JEBO)</strong></em>
+     <em><u>R&amp;R</u></em> at <em><strong>Journal of Economic Behavior and Organization</strong></em>
   </p>
 
   <p class="item">
