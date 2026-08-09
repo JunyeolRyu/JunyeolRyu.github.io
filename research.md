@@ -55,7 +55,7 @@ permalink: /research/
 
 
 
-<span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7025078" target="_blank" rel="noopener">Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market</a>” (with Qi Ge and Myongjin Kim), 2024, *1st author*, <em><u>Submitted</u></em> to <em><strong>The Review of Economics and Statistics (REStat)</strong></em>
+<span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7025078" target="_blank" rel="noopener">Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market</a>” (with Qi Ge and Myongjin Kim), 2024, *1st author*, <em><u>Submitted</u></em> to the <em><strong> Review of Economics and Statistics (REStat)</strong></em>
 </span>  
 
 
