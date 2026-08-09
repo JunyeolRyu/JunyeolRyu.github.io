@@ -13,7 +13,13 @@
 .research .item   { font-family: 'Literata', Georgia, serif; }    /* 논문 목록 */
 .research .abs p  { font-family: 'EB Garamond', Georgia, serif; }   /* 초록 */
 
-
+.research .item em,
+.research .item em strong {
+  font-style: italic;
+  transform: skewX(-12deg);
+  display: inline-block;
+}
+   
 /* ==========================================================
    레이아웃
    ========================================================== */
