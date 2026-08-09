@@ -5,12 +5,16 @@
    폰트를 바꾸려면 아래 세 줄만 수정하세요
    ========================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Newsreader:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
+
+   
 .research h3      { font-family: 'Noto Serif', Georgia, serif; }    /* 섹션 제목 */
-.research .item   { font-family: 'Literata', Georgia, serif; }    /* 논문 목록 */
+.research .item   { font-family: 'Newsreader', Georgia, serif; }    /* 논문 목록 */
 .research .abs p  { font-family: 'EB Garamond', Georgia, serif; }   /* 초록 */
 
+
+   
 .research .item em,
 .research .item em strong {
   font-style: italic;
