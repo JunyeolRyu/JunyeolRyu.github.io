@@ -43,13 +43,13 @@ permalink: /teaching/
 
   <p class="role">Instructor</p>
   <ul>
-    <li>Business Statistics (Summer 2023), undergraduate</li>
+    <li>Business Statistics (Summer 2023, undergraduate)</li>
   </ul>
 
   <p class="role">Guest Lecturer</p>
   <ul>
-    <li>Mathematical Economics 1 (Fall 2024, Fall 2025), graduate</li>
-    <li>Industrial Organization (Spring 2026), graduate</li>
+    <li>Mathematical Economics 1 (Fall 2024, graduate; Fall 2025, graduate)</li>
+    <li>Industrial Organization (Spring 2026, graduate)</li>
   </ul>
 
   <p class="role">Teaching Assistant</p>
