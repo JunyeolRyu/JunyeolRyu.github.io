@@ -6,7 +6,7 @@ permalink: /teaching/
 
 <style>
 .teach h3 {
-  font-family: 'PT Serif', Georgia, serif;
+  font-family: 'Noto Serif', serif;
   font-size: 1.45rem;
   margin: 34px 0 14px;
 }
