@@ -344,8 +344,8 @@ ul.news-list li::before {
 
           <li>
             <span class="news-date">&lt; Jul 2026 &gt;</span> 
-            <em>"Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market"</em>
-            is <em><u>submitted</u></em> to the <b>Review of Economics and Statistics (REStat)</b>.
+            "Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market"
+            is <em><u>submitted</u></em> to the <em><b>Review of Economics and Statistics (REStat)</b></em>.
           </li>
 
           <li>
