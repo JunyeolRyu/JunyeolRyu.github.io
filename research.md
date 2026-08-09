@@ -7,6 +7,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
    
+
    
 .research h3      { font-family: 'Noto Serif', Georgia, serif; }    /* 섹션 제목 */
 .research .item   { font-family: 'Literata', Georgia, serif; }    /* 논문 목록 */
@@ -91,7 +92,7 @@
 
   <p class="item">
     "<a href="https://link.springer.com/article/10.1007/s11151-026-10057-1" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case</a>"
-    (with Minhae Kim and Myongjin Kim), <em><u>forthcoming</u></em> at <em><strong>Review of Industrial Organization</strong></em>, <em>co 1st author</em>
+    (with Minhae Kim and Myongjin Kim), <em><u>forthcoming</u></em> at <em>Review of Industrial Organization</em>, <em>co 1st author</em>
   </p>
 
   <p class="item">
