@@ -9,7 +9,7 @@
 
 
 .research h3      { font-family: 'Noto Serif', Georgia, serif; }    /* 섹션 제목 */
-.research .item   { font-family: 'Merriweather', Georgia, serif; }    /* 논문 목록 */
+.research .item   { font-family: 'Literata', Georgia, serif; }    /* 논문 목록 */
 .research .abs p  { font-family: 'EB Garamond', Georgia, serif; }   /* 초록 */
 
 
