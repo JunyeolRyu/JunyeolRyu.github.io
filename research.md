@@ -15,7 +15,7 @@ permalink: /research/
 <span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">What Occurs When a Shot is Fired? Gender Differences in Housing Markets</a>” (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <em><strong>Marketing Letters</strong></em>, Volume 36, pages 369-38, *co 1st author*
 </span>    
 
-<span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://www.sciencedirect.com/science/article/pii/S0140988320304308" rel="noopener">Household differentiation and residential electricity demand in Korea</a>” (with Daewook Kim and Mankeun Kim), <em><strong>Energy Economics/strong></em>, Volume 95, March 2021, *1st author*   
+<span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://www.sciencedirect.com/science/article/pii/S0140988320304308" rel="noopener">Household differentiation and residential electricity demand in Korea</a>” (with Daewook Kim and Mankeun Kim), <em><strong>Energy Economics</strong></em>, Volume 95, March 2021, *1st author*   
 </span>  
   
 
