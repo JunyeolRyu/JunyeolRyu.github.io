@@ -6,7 +6,7 @@ permalink: /research/
 
 ### <span style="font-family: 'Noto Serif', serif"><b>PUBLICATIONS</b></span>  
 
-<span style="font-family: 'Merriweather', serif"> • “<a href="https://link.springer.com/article/10.1007/s11151-026-10057-1" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case</a>” (with Minhae Kim and Myongjin Kim), <em><u>Forthcoming</u></em> at <em><strong>Review of Industrial Organization</strong></em>, *co 1st author* 
+<span style="font-family: 'Merriweather', serif"> • “<a href="https://link.springer.com/article/10.1007/s11151-026-10057-1" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case</a>” (with Minhae Kim and Myongjin Kim), <em><u>forthcoming</u></em> at <em><strong>Review of Industrial Organization</strong></em>, *co 1st author* 
 </span>    
 
 <span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://www.sciencedirect.com/science/article/abs/pii/S014098832600023X" target="_blank" rel="noopener">Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets</a>” (with Yenjae Chang), <em><strong>Energy Economics</strong></em>, Volume 155, March 2026, 109144, 
@@ -55,7 +55,7 @@ permalink: /research/
 
 
 
-<span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7025078" target="_blank" rel="noopener">Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market</a>” (with Qi Ge and Myongjin Kim), 2024, *1st author*, <em><u>Submitted</u></em> to the <em><strong> Review of Economics and Statistics (REStat)</strong></em>
+<span style="font-family: 'Newsreader', Georgia, serif"> • “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7025078" target="_blank" rel="noopener">Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market</a>” (with Qi Ge and Myongjin Kim), 2024, *1st author*, <em><u>submitted</u></em> to the <em><strong> Review of Economics and Statistics (REStat)</strong></em>
 </span>  
 
 
@@ -64,7 +64,7 @@ permalink: /research/
 
 
 
-<span style="font-family: 'Newsreader', Georgia, serif"> • “A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Introduction Method” (with Hongseok So, Daewook Kim, and Mankeun Kim), 2024, <em><u>Submitted</u></em> to <em><strong>Energy Policy</strong></em>
+<span style="font-family: 'Newsreader', Georgia, serif"> • “A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Introduction Method” (with Hongseok So, Daewook Kim, and Mankeun Kim), 2024, <em><u>under review</u></em> at <em><strong>Energy Policy</strong></em>
 </span>    
 
 <div style="margin-left:1.5rem; display:flex; align-items:baseline; column-gap:.6rem;">
