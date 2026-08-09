@@ -16,7 +16,7 @@
 .research .item em,
 .research .item em strong {
   font-style: italic;
-  transform: skewX(-12deg);
+  transform: skewX(-6deg);
   display: inline-block;
 }
    
