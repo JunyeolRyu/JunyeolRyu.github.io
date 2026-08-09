@@ -350,38 +350,38 @@ ul.news-list li::before {
 
           <li>
             <span class="news-date">&lt; Jun 2026 &gt;</span> 
-            <em>"A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Import Method"</em>
-            is <em><u>under review</u></em> at <strong>Energy Policy</strong>.
+            "A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Import Method"
+            is <em><u>under review</u></em> at <em><strong>Energy Policy</strong></em>.
           </li>
 
           <li>
             <span class="news-date">&lt; May 2026 &gt;</span> 
-            <em>"Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case"</em>
-            is <em><u>accepted</u></em> at the <strong>Review of Industrial Organization (RIO)</strong>.
+            "Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case"
+            is <em><u>accepted</u></em> at the <em><strong>Review of Industrial Organization (RIO)</strong></em>.
           </li>
 
           <li>
             <span class="news-date">&lt; May 2026 &gt;</span> 
-            <em>"Tax Reform and Bonuses: Implications for Employee Productivity"</em>
-            received an <em><u>R&amp;R</u></em> at <strong>Journal of Economic Behavior and Organization (JEBO)</strong>.
+            "Tax Reform and Bonuses: Implications for Employee Productivity"
+            received an <em><u>R&amp;R</u></em> at <em><strong>Journal of Economic Behavior and Organization (JEBO)</strong></em>.
           </li>
 
           <li>
             <span class="news-date">&lt; Apr 2026 &gt;</span> 
             I have been awarded the
-            <strong>Dodge Family College of Arts and Sciences Dissertation Completion Fellowship</strong>,
+            <em><strong>Dodge Family College of Arts and Sciences Dissertation Completion Fellowship</strong></em>,
             University of Oklahoma.
           </li>
 
           <li>
             <span class="news-date">&lt; Mar 2026 &gt;</span> 
-            <em>"Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets"</em>
-            is <em><u>published</u></em> at <strong>Energy Economics</strong>.
+            "Price Competition and Market Dynamics Under Asymmetric Costs: Evidence from Discount Gas Stations on Local Markets"
+            is <em><u>published</u></em> at <em><strong>Energy Economics</strong></em>.
           </li>
 
           <li>
             <span class="news-date">&lt; Sep 2025 &gt;</span> 
-            I have been awarded the <strong>Chong Liew Summer Research Award</strong>,
+            I have been awarded the <em><strong>Chong Liew Summer Research Award</strong></em>,
             University of Oklahoma.
           </li>
 
