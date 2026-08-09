@@ -14,13 +14,6 @@
 .research .abs p  { font-family: 'EB Garamond', Georgia, serif; }   /* 초록 */
 
 
-   
-.research .item em,
-.research .item em strong {
-  font-style: italic;
-  transform: skewX(-6deg);
-  display: inline-block;
-}  
 
    
 /* ==========================================================
