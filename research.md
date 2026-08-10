@@ -92,8 +92,8 @@
 
   <p class="item">
     "<a href="https://link.springer.com/article/10.1007/s11151-026-10057-1" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case</a>"
-    (with Minhae Kim and Myongjin Kim), <br>
-     <em><u>forthcoming</u></em> at <em><strong>Review of Industrial Organization</strong></em>, <em>co 1st author</em>
+    (with Minhae Kim and Myongjin Kim), <em>co 1st author</em>, <br>
+     <em><u>forthcoming</u></em> at <em><strong>Review of Industrial Organization</strong></em>
   </p>
 
   <p class="item">
@@ -104,14 +104,14 @@
 
   <p class="item">
     "<a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">What Occurs When a Shot is Fired? Gender Differences in Housing Markets</a>"
-    (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <br>
-     <em><strong>Marketing Letters</strong></em>, Volume 36, pages 369-383, <em>co 1st author</em>
+    (with Yongseok Kim, Suman Basuroy, and Myongjin Kim), <em>co 1st author</em>, <br>
+     <em><strong>Marketing Letters</strong></em>, Volume 36, pages 369-383
   </p>
 
   <p class="item">
     "<a href="https://www.sciencedirect.com/science/article/pii/S0140988320304308" target="_blank" rel="noopener">Household Differentiation and Residential Electricity Demand in Korea</a>"
-    (with Daewook Kim and Mankeun Kim), <br>
-     <em><strong>Energy Economics</strong></em>, Volume 95, March 2021, 105090, <em>1st author</em>
+    (with Daewook Kim and Mankeun Kim), <em>1st author</em>, <br>
+     <em><strong>Energy Economics</strong></em>, Volume 95, March 2021, 105090
   </p>
 
 
