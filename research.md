@@ -279,7 +279,7 @@ organizational productivity and product quality. Using the difference-in-differe
     <p class="title">A Study on the Competition of LNG Power Generation in the Korean Electricity Market following the Introduction Method</p>
     <p class="meta">
       with Hongseok So, Daewook Kim, and Mankeun Kim (2024)<br>
-      <span class="status"><em>Under review</em> at <strong>Energy Policy</strong></span>
+      <span class="status"><em><u>Under review</u></em> at <strong>Energy Policy</strong></span>
     </p>
     <details>
       <summary>Abstract</summary>
