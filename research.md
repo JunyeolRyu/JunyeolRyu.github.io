@@ -40,23 +40,32 @@ permalink: /research/
 
 .research .paper {
   margin-bottom: 26px;
+  padding-left: 1.1em;
+  position: relative;
 }
 
 .research .title {
   font-size: 1.12rem;
   line-height: 1.45;
-  color: #1a1a1a;
+  color: #0056b3;
   margin: 0 0 4px;
 }
 
+/* 제목 앞 동그라미 */
+.research .title::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #0056b3;
+}
+
 .research .title a {
-  color: #1a1a1a;
+  color: #0056b3;
   text-decoration: none;
-  border-bottom: 1px solid rgba(0,0,0,.18);
+  border-bottom: 1px solid rgba(0,86,179,.3);
 }
 
 .research .title a:hover {
-  color: #0056b3;
   border-bottom-color: #0056b3;
 }
 
@@ -87,11 +96,11 @@ permalink: /research/
 .research summary {
   font-family: 'Newsreader', Georgia, serif;
   font-size: 0.98rem;
-  color: #8b2b2b;
+  color: #0056b3;
   cursor: pointer;
   display: inline-block;
   list-style: none;
-  border-bottom: 1px solid rgba(139,43,43,.35);
+  border-bottom: 1px solid rgba(0,86,179,.35);
   padding-bottom: 1px;
   user-select: none;
 }
@@ -101,14 +110,14 @@ permalink: /research/
 .research summary::after {
   content: " \25B8";          /* ▸ */
   font-size: 0.8em;
-  color: #a05555;
+  color: #4a86c5;
 }
 
 .research details[open] summary::after {
   content: " \25BE";          /* ▾ */
 }
 
-.research summary:hover { color: #b03a3a; }
+.research summary:hover { color: #003d80; }
 
 .research .abs-body {
   margin: 11px 0 4px;
@@ -156,7 +165,7 @@ permalink: /research/
       <a href="https://link.springer.com/article/10.1007/s11151-026-10057-1" target="_blank" rel="noopener">Coordinated Pricing After a Failed Merger: Evidence from the JetBlue-Spirit Case</a>
     </p>
     <p class="meta">
-      with Minhae Kim and Myongjin Kim · <em>co 1st author</em><br>
+      with Minhae Kim and Myongjin Kim &middot; <em>co 1st author</em><br>
       <span class="status"><em>Forthcoming</em> at <strong>Review of Industrial Organization</strong></span>
     </p>
   </div>
@@ -178,8 +187,8 @@ permalink: /research/
       <a href="https://link.springer.com/article/10.1007/s11002-024-09755-1" target="_blank" rel="noopener">What Occurs When a Shot is Fired? Gender Differences in Housing Markets</a>
     </p>
     <p class="meta">
-      with Yongseok Kim, Suman Basuroy, and Myongjin Kim · <em>co 1st author</em><br>
-      <span class="status"><strong>Marketing Letters</strong>, 36, 369–383 (2025)</span>
+      with Yongseok Kim, Suman Basuroy, and Myongjin Kim &middot; <em>co 1st author</em><br>
+      <span class="status"><strong>Marketing Letters</strong>, 36, 369&ndash;383 (2025)</span>
     </p>
   </div>
 
@@ -189,7 +198,7 @@ permalink: /research/
       <a href="https://www.sciencedirect.com/science/article/pii/S0140988320304308" target="_blank" rel="noopener">Household Differentiation and Residential Electricity Demand in Korea</a>
     </p>
     <p class="meta">
-      with Daewook Kim and Mankeun Kim · <em>1st author</em><br>
+      with Daewook Kim and Mankeun Kim &middot; <em>1st author</em><br>
       <span class="status"><strong>Energy Economics</strong>, 95, 105090 (Mar. 2021)</span>
     </p>
   </div>
@@ -205,7 +214,7 @@ permalink: /research/
   <div class="paper">
     <p class="title">Energy Security and Competition in South Korea</p>
     <p class="meta">
-      with Eric Lewis, Myongjin Kim, and Hongseok So · <em>1st author</em> (2024)
+      with Eric Lewis, Myongjin Kim, and Hongseok So &middot; <em>1st author</em> (2024)
     </p>
     <details>
       <summary>Abstract</summary>
@@ -219,7 +228,7 @@ permalink: /research/
   <div class="paper">
     <p class="title">Impacts of ZEV on Product Market, Environment, and Health Outcomes</p>
     <p class="meta">
-      with Minhae Kim and Myongjin Kim · <em>1st author</em> (2024)
+      with Minhae Kim and Myongjin Kim &middot; <em>1st author</em> (2024)
     </p>
     <details>
       <summary>Abstract</summary>
@@ -235,7 +244,7 @@ permalink: /research/
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7025078" target="_blank" rel="noopener">Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market</a>
     </p>
     <p class="meta">
-      with Qi Ge and Myongjin Kim · <em>1st author</em> (2024)<br>
+      with Qi Ge and Myongjin Kim &middot; <em>1st author</em> (2024)<br>
       <span class="status"><em>Submitted</em> to <strong>Review of Economics and Statistics</strong></span>
     </p>
     <details>
