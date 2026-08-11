@@ -69,11 +69,10 @@ permalink: /research/
   border-bottom-color: #0056b3;
 }
 
-.research .meta {
-  font-size: 1.0rem;
-  line-height: 1.5;
-  color: #777;
-  margin: 0;
+.research .meta strong {
+  color: #444;
+  font-weight: 600;
+  font-style: italic;
 }
 
 .research .meta em     { font-style: italic; }
@@ -96,22 +95,23 @@ permalink: /research/
 .research summary {
   font-family: 'Newsreader', Georgia, serif;
   font-size: 0.98rem;
-  color: #0056b3;
+  color: #6b3410;
   cursor: pointer;
   display: inline-block;
   list-style: none;
-  border-bottom: 1px solid rgba(0,86,179,.35);
+  border-bottom: 1px solid rgba(107,52,16,.35);
   padding-bottom: 1px;
   user-select: none;
 }
 
-.research summary::-webkit-details-marker { display: none; }
-
 .research summary::after {
-  content: " \25B8";          /* ▸ */
+  content: " \25B8";
   font-size: 0.8em;
-  color: #4a86c5;
+  color: #96603c;
 }
+
+.research summary:hover { color: #4a2409; }
+   
 
 .research details[open] summary::after {
   content: " \25BE";          /* ▾ */
