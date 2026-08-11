@@ -218,7 +218,8 @@ permalink: /research/
     <details>
       <summary>Abstract</summary>
       <div class="abs-body">
-        여기에 초록을 넣으세요.
+        We study the impact of upstream shock and downstream decentralization in the LNG sector on electricity wholesale price, cost efficiency, and risk allocation. Using
+hourly generation data from 2012 to 2024, this paper empirically examines the behavior difference between private and government generators, focusing on the upstream cost shock to investigate how strategic behavior affects the electricity market outcome and suggests the structural limitations inherent in heterogeneity between semi-liberalization and a centralized price-setting mechanism. We find that while decentralization increases cost efficiency in normal situations, during a cost shock in the upstream market, strategic behavior from private generators may lead to cherry-picking by adjusting product type and quantity, which increases burdens on energy security and energy institutes.
       </div>
     </details>
   </div>
@@ -232,7 +233,8 @@ permalink: /research/
     <details>
       <summary>Abstract</summary>
       <div class="abs-body">
-        여기에 초록을 넣으세요.
+        This paper studies the environmental consequences of airport-level Zero Emission Vehicle (ZEV) regulations in the United States. We examine how these policies affect pass-through dynamics, airline pricing, service quality, network responses, and consumer welfare. We exploit ZEV adoption across airports and implement reduced-form and structural analysis to estimate the effect of ZEV mandates on charging fees, airline operating costs, ticket prices, delay time, and route adjustment. We find that ZEV adoption increases airport charging fees, and airlines partially pass through these costs to passengers. Our results quantify the distribution of benefits and costs across consumers, airlines, and local communities, and inform the optimal design of environmental policy in networked transportation markets.
+ 
       </div>
     </details>
   </div>
@@ -249,7 +251,7 @@ permalink: /research/
     <details>
       <summary>Abstract</summary>
       <div class="abs-body">
-        여기에 초록을 넣으세요.
+        This paper studies when entry-based competition policy succeeds. Using South Korea's Thrifty Gas Station policy, we find that low-cost entry lowers prices on average, but its effect depends on the incumbent contact network. When incumbent brands repeatedly meet across local markets, the price reduction from entry is attenuated and can reverse in the middle of the price distribution at very high levels of incumbent contact. The reversal is absent for private low-cost self-service entry and becomes weaker when government-backed entry is spatially denser. Entry-based policy therefore depends on both incumbent contact and the scale of entry.
       </div>
     </details>
   </div>
@@ -266,7 +268,8 @@ permalink: /research/
     <details>
       <summary>Abstract</summary>
       <div class="abs-body">
-        여기에 초록을 넣으세요.
+        This paper investigates the impact of one-time, unconditional bonuses on product quality in the airline industry following the 2017 U.S. corporate tax reform. By analyzing this firm response to a significant policy change, we explore how additional profits led to bonuses and improved
+organizational productivity and product quality. Using the difference-in-differences method and surplus bound analysis, we show that these bonuses significantly enhance on-time performance, increasing social welfare by 83 to 112 million dollars. The findings highlight the importance of ESG criteria in motivating a productive workforce and demonstrate the interplay between economic policy and corporate behavior
       </div>
     </details>
   </div>
@@ -322,13 +325,13 @@ permalink: /research/
 
   <div class="paper">
     <p class="title">Gas Station Location Selection with Multi-Market Contact and Market Power</p>
-    <p class="meta">2025</p>
+    <p class="meta">(2025)</p>
   </div>
 
 
   <div class="paper">
     <p class="title">The Impact of SAF on Supply Chain, Market Outcome</p>
-    <p class="meta">2024</p>
+    <p class="meta">(2024)</p>
   </div>
 
 
