@@ -166,7 +166,7 @@ permalink: /research/
     </p>
     <p class="meta">
       with Minhae Kim and Myongjin Kim &middot; <em>co 1st author</em><br>
-      <span class="status"><em>Forthcoming</em> at <strong>Review of Industrial Organization</strong></span>
+      <span class="status"><em><u>Forthcoming</u></em> at <strong>Review of Industrial Organization</strong></span>
     </p>
   </div>
 
