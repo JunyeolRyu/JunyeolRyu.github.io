@@ -245,7 +245,7 @@ permalink: /research/
     </p>
     <p class="meta">
       with Qi Ge and Myongjin Kim &middot; <em>1st author</em> (2024)<br>
-      <span class="status"><em>Submitted</em> to <strong>Review of Economics and Statistics</strong></span>
+      <span class="status"><em><u>Submitted</u></em> to <strong>Review of Economics and Statistics</strong></span>
     </p>
     <details>
       <summary>Abstract</summary>
@@ -262,7 +262,7 @@ permalink: /research/
     </p>
     <p class="meta">
       with Myongjin Kim, Georgia Kosmopoulou, and Jangsu Yoon (2024)<br>
-      <span class="status"><em>R&amp;R</em> at <strong>Journal of Economic Behavior and Organization</strong></span>
+      <span class="status"><em><u>R&amp;R</u></em> at <strong>Journal of Economic Behavior and Organization</strong></span>
     </p>
     <details>
       <summary>Abstract</summary>
