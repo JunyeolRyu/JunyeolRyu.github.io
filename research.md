@@ -311,34 +311,16 @@ organizational productivity and product quality. Using the difference-in-differe
   </div>
 
 
-/* ==== <div class="paper">
-/* ====   <p class="title">A Study of Renewable Energy Policy on Electricity Market in South Korea, Jeju</p>
-/* ====   <p class="meta">with Hongseok So (2025)</p>
-/* ==== </div>
-
-
-/* ==== <div class="paper">
-/* ====   <p class="title">Procurement Collusion and Network</p>
-/* ====   <p class="meta">with Myongjin Kim and Yunmi Kong (2025)</p>
-/* ==== </div>
-
-
-  <div class="paper">
-    <p class="title">Gas Station Location Selection with Within and Across Market Power</p>
-    <p class="meta">(2025)</p>
-  </div>
-
-
   <div class="paper">
     <p class="title">The Impact of SAF on Supply Chain, Market Outcome</p>
     <p class="meta">(2024)</p>
   </div>
 
 
-/* ==== <div class="paper">
-/* ====   <p class="title">Regionally Differentiated Electricity Prices and Price Elasticity</p>
-/* ====   <p class="meta">with Sumi Seon and Daewook Kim (2026)</p>
-/* ==== </div>
+  <div class="paper">
+    <p class="title">Regionally Differentiated Electricity Prices and Price Elasticity</p>
+    <p class="meta">with Sumi Seon and Daewook Kim (2026)</p>
+  </div>
 
 
   <div class="paper">
@@ -346,5 +328,26 @@ organizational productivity and product quality. Using the difference-in-differe
     <p class="meta">with Bowei Dong (2026)</p>
   </div>
 
+/* ==========================================================
 
+  <div class="paper">
+    <p class="title">A Study of Renewable Energy Policy on Electricity Market in South Korea, Jeju</p>
+    <p class="meta">with Hongseok So (2025)</p>
+  </div>
+
+
+  <div class="paper">
+    <p class="title">Procurement Collusion and Network</p>
+    <p class="meta">with Myongjin Kim and Yunmi Kong (2025)</p>
+  </div>
+
+
+  <div class="paper">
+    <p class="title">Gas Station Location Selection with Within and Across Market Power</p>
+    <p class="meta">(2025)</p>
+  </div>
+
+   ========================================================== */
+
+   
 </div>
