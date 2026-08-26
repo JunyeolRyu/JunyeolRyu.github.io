@@ -246,7 +246,7 @@ hourly generation data from 2012 to 2024, this paper empirically examines the be
     </p>
     <p class="meta">
       with Qi Ge and Myongjin Kim &middot; <em>1st author</em> (2024)<br>
-      <span class="status"><em><u>Submitted</u></em> to <strong>Review of Economics and Statistics</strong></span>
+      <span class="status"><em><u>Under review</u></em> at <strong>American Economic Journal: Economic Policy</strong></span>
     </p>
     <details>
       <summary>Abstract</summary>
@@ -302,7 +302,7 @@ organizational productivity and product quality. Using the difference-in-differe
        WORKS IN PROGRESS
        ====================================================== -->
 
-  <h3>WORKS IN PROGRESS</h3>
+  <h3>SELECTED WORKS IN PROGRESS</h3>
 
 
   <div class="paper">
@@ -311,20 +311,20 @@ organizational productivity and product quality. Using the difference-in-differe
   </div>
 
 
-  <div class="paper">
-    <p class="title">A Study of Renewable Energy Policy on Electricity Market in South Korea, Jeju</p>
-    <p class="meta">with Hongseok So (2025)</p>
-  </div>
+/* ==== <div class="paper">
+/* ====   <p class="title">A Study of Renewable Energy Policy on Electricity Market in South Korea, Jeju</p>
+/* ====   <p class="meta">with Hongseok So (2025)</p>
+/* ==== </div>
+
+
+/* ==== <div class="paper">
+/* ====   <p class="title">Procurement Collusion and Network</p>
+/* ====   <p class="meta">with Myongjin Kim and Yunmi Kong (2025)</p>
+/* ==== </div>
 
 
   <div class="paper">
-    <p class="title">Procurement Collusion and Network</p>
-    <p class="meta">with Myongjin Kim and Yunmi Kong (2025)</p>
-  </div>
-
-
-  <div class="paper">
-    <p class="title">Gas Station Location Selection with Multi-Market Contact and Market Power</p>
+    <p class="title">Gas Station Location Selection with Within and Across Market Power</p>
     <p class="meta">(2025)</p>
   </div>
 
@@ -335,10 +335,10 @@ organizational productivity and product quality. Using the difference-in-differe
   </div>
 
 
-  <div class="paper">
-    <p class="title">Regionally Differentiated Electricity Prices and Price Elasticity</p>
-    <p class="meta">with Sumi Seon and Daewook Kim (2026)</p>
-  </div>
+/* ==== <div class="paper">
+/* ====   <p class="title">Regionally Differentiated Electricity Prices and Price Elasticity</p>
+/* ====   <p class="meta">with Sumi Seon and Daewook Kim (2026)</p>
+/* ==== </div>
 
 
   <div class="paper">
