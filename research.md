@@ -312,16 +312,14 @@ organizational productivity and product quality. Using the difference-in-differe
 
 
   <div class="paper">
-    <p class="title">The Impact of SAF on Supply Chain, Market Outcome</p>
+    <p class="title">Gas Station Location Selection with Within and Across Market Power</p>
     <p class="meta">(2024)</p>
   </div>
 
-
   <div class="paper">
-    <p class="title">Regionally Differentiated Electricity Prices and Price Elasticity</p>
-    <p class="meta">with Sumi Seon and Daewook Kim (2026)</p>
+    <p class="title">The Impact of SAF on Supply Chain, Market Outcome</p>
+    <p class="meta">(2024)</p>
   </div>
-
 
   <div class="paper">
     <p class="title">Reshaping Entrepreneurship? Lessons from the Kansas Tax Experiment</p>
