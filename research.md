@@ -228,7 +228,7 @@ hourly generation data from 2012 to 2024, this paper empirically examines the be
   <div class="paper">
     <p class="title">Impacts of ZEV on Product Market, Environment, and Health Outcomes</p>
     <p class="meta">
-      with Minhae Kim and Myongjin Kim &middot; <em>1st author</em> (2024)
+      <em>1st author</em> (2024)
     </p>
     <details>
       <summary>Abstract</summary>
