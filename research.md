@@ -246,7 +246,7 @@ hourly generation data from 2012 to 2024, this paper empirically examines the be
     </p>
     <p class="meta">
       with Qi Ge and Myongjin Kim &middot; <em>1st author</em> (2024)<br>
-      <span class="status"><em><u>Under review</u></em> at <strong>American Economic Journal: Economic Policy</strong></span>
+      <span class="status"><em><u>Under review</u></em> at <strong>Journal of Public Economics</strong></span>
     </p>
     <details>
       <summary>Abstract</summary>
