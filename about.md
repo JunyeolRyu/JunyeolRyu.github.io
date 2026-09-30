@@ -252,7 +252,7 @@ ul.news-list li::before {
 
     <div class="about-photo">
 
-      <img src="/Junyeol_Photo.jpg" alt="Junyeol Ryu">
+      <img src="/junyeol_photo.png" alt="Junyeol Ryu">
 
       <p class="caption">Pronounced as "Jun-Yeol"</p>
 
