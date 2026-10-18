@@ -343,9 +343,9 @@ ul.news-list li::before {
         <ul class="news-list">
 
           <li>
-            <span class="news-date">&lt; Jul 2026 &gt;</span> 
+            <span class="news-date">&lt; Sep 2026 &gt;</span> 
             "Quasi-Vertical Integration, Low-Cost Entrants, and Multi-Market Contact: Coordination and Competition in Regional Gasoline Station Market"
-            is <em><u>under review </u></em> at <em><b>Journal of Public Economics</b></em>.
+            is <em><u>under review </u></em> at <em><b>Journal of Industrial Economics</b></em>.
           </li>
 
           <li>
