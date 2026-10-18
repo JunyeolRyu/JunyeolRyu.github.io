@@ -210,20 +210,6 @@ permalink: /research/
   <h3>WORKING PAPERS</h3>
 
 
-  <div class="paper">
-    <p class="title">Energy Security and Competition in South Korea</p>
-    <p class="meta">
-      with Eric Lewis, Myongjin Kim, and Hongseok So &middot; <em>1st author</em> (2024)
-    </p>
-    <details>
-      <summary>Abstract</summary>
-      <div class="abs-body">
-        We study the impact of upstream shock and downstream decentralization in the LNG sector on electricity wholesale price, cost efficiency, and risk allocation. Using
-hourly generation data from 2012 to 2024, this paper empirically examines the behavior difference between private and government generators, focusing on the upstream cost shock to investigate how strategic behavior affects the electricity market outcome and suggests the structural limitations inherent in heterogeneity between semi-liberalization and a centralized price-setting mechanism. We find that while decentralization increases cost efficiency in normal situations, during a cost shock in the upstream market, strategic behavior from private generators may lead to cherry-picking by adjusting product type and quantity, which increases burdens on energy security and energy institutes.
-      </div>
-    </details>
-  </div>
-
 
   <div class="paper">
     <p class="title">Impacts of ZEV on Product Market, Environment, and Health Outcomes</p>
@@ -246,7 +232,7 @@ hourly generation data from 2012 to 2024, this paper empirically examines the be
     </p>
     <p class="meta">
       with Qi Ge and Myongjin Kim &middot; <em>1st author</em> (2024)<br>
-      <span class="status"><em><u>Under review</u></em> at <strong>Journal of Public Economics</strong></span>
+      <span class="status"><em><u>Under review</u></em> at <strong>Journal of Industrial Economics</strong></span>
     </p>
     <details>
       <summary>Abstract</summary>
