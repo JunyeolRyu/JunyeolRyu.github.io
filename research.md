@@ -214,7 +214,7 @@ permalink: /research/
   <div class="paper">
     <p class="title">Impacts of ZEV on Product Market, Environment, and Health Outcomes</p>
     <p class="meta">
-      <span class="status"><em><u>Draft coming soon!</u></em></span>
+      <span class="status"><em>Draft coming soon!</em></span>
     </p>
     <details>
       <summary>Abstract</summary>
