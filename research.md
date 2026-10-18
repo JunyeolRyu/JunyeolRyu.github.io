@@ -276,14 +276,6 @@ organizational productivity and product quality. Using the difference-in-differe
   </div>
 
 
-  <div class="paper">
-    <p class="title">Marijuana Legalization and Airline Competition</p>
-    <p class="meta">
-      with Minhae Kim and Myongjin Kim (2024)
-    </p>
-  </div>
-
-
   <!-- ======================================================
        WORKS IN PROGRESS
        ====================================================== -->
